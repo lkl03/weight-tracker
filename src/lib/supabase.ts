@@ -1,17 +1,26 @@
 import { createClient } from "@supabase/supabase-js";
 import type { WeightEntry, WeightEntryInsert } from "@/types";
 
-const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL!;
-const supabaseAnonKey = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!;
-const supabaseServiceKey = process.env.SUPABASE_SERVICE_ROLE_KEY!;
-
-// Public client (for read operations from the browser)
-export const supabase = createClient(supabaseUrl, supabaseAnonKey);
-
-// Server-side client with elevated permissions
-export function createServerClient() {
-  return createClient(supabaseUrl, supabaseServiceKey);
+// Lazy clients — never call createClient() at module initialization so that
+// builds without env vars (CI, static analysis) do not throw.
+export function getPublicClient() {
+  return createClient(
+    process.env.NEXT_PUBLIC_SUPABASE_URL!,
+    process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!
+  );
 }
+
+export function createServerClient() {
+  return createClient(
+    process.env.NEXT_PUBLIC_SUPABASE_URL!,
+    process.env.SUPABASE_SERVICE_ROLE_KEY!
+  );
+}
+
+// Convenience alias kept for backward compat in client components
+export const supabase = {
+  get from() { return getPublicClient().from.bind(getPublicClient()); },
+};
 
 export type Database = {
   public: {

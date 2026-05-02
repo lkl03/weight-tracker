@@ -5,7 +5,7 @@ import { DashboardClient } from "./DashboardClient";
 
 const BIRTH_DATE = new Date(2003, 1, 14); // Feb 14, 2003
 
-export const revalidate = 60;
+export const dynamic = "force-dynamic";
 
 export default async function HomePage() {
   const db = createServerClient();
