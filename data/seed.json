@@ -1,0 +1,5862 @@
+[
+  {
+    "id": "fb7c4937-3ea0-497c-a4b7-41c8eb1f4f60",
+    "date": "2024-03-04",
+    "time": "05:27",
+    "weightKg": 77.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.884907Z",
+    "updatedAt": null
+  },
+  {
+    "id": "200fa9a1-7d8e-48ac-9d71-e5b8da4d475d",
+    "date": "2024-03-05",
+    "time": "05:36",
+    "weightKg": 77.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.885304Z",
+    "updatedAt": null
+  },
+  {
+    "id": "a121fd40-7927-435f-8b5e-c93d82e4b35c",
+    "date": "2024-03-06",
+    "time": "05:37",
+    "weightKg": 78.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.885304Z",
+    "updatedAt": null
+  },
+  {
+    "id": "b1b3ba3b-7375-4635-b65b-4237ff8db623",
+    "date": "2024-03-07",
+    "time": "05:37",
+    "weightKg": 78.6,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.885304Z",
+    "updatedAt": null
+  },
+  {
+    "id": "35dd12f3-bd59-4500-b191-e49ec319c3b5",
+    "date": "2024-03-08",
+    "time": "06:22",
+    "weightKg": 77.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.885304Z",
+    "updatedAt": null
+  },
+  {
+    "id": "a89920f4-2fda-4678-90e8-31780f55812a",
+    "date": "2024-03-09",
+    "time": "06:43",
+    "weightKg": 77.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.885304Z",
+    "updatedAt": null
+  },
+  {
+    "id": "774f1faf-f918-47d2-8442-4e433323669c",
+    "date": "2024-03-10",
+    "time": "11:22",
+    "weightKg": 76.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.885599Z",
+    "updatedAt": null
+  },
+  {
+    "id": "d3f29a0b-5d3d-467f-9b6e-91421f07cb9b",
+    "date": "2024-03-11",
+    "time": "08:07",
+    "weightKg": 76.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.885669Z",
+    "updatedAt": null
+  },
+  {
+    "id": "e156f9ec-f9dc-467e-b174-101183f562b7",
+    "date": "2024-03-12",
+    "time": "09:37",
+    "weightKg": 77.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.885669Z",
+    "updatedAt": null
+  },
+  {
+    "id": "7fd094e5-31fe-4edb-9eb1-dae7785a33aa",
+    "date": "2024-03-13",
+    "time": "11:09",
+    "weightKg": 76.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.885669Z",
+    "updatedAt": null
+  },
+  {
+    "id": "15ce8ca9-ac69-4955-9cd8-b07e7ba2fefa",
+    "date": "2024-03-14",
+    "time": "11:51",
+    "weightKg": 76.65,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.885669Z",
+    "updatedAt": null
+  },
+  {
+    "id": "30844488-4e2f-4737-be04-e15603df90dc",
+    "date": "2024-03-15",
+    "time": "11:00",
+    "weightKg": 76.35,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.885669Z",
+    "updatedAt": null
+  },
+  {
+    "id": "1c3cfea3-0154-4034-a2f3-7e6ead90b1b8",
+    "date": "2024-03-16",
+    "time": "08:41",
+    "weightKg": 76.95,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.885669Z",
+    "updatedAt": null
+  },
+  {
+    "id": "e0dfb5db-c4e3-4937-973e-89ed20c2519c",
+    "date": "2024-03-17",
+    "time": "13:21",
+    "weightKg": 77.0,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.886039Z",
+    "updatedAt": null
+  },
+  {
+    "id": "249265a1-d0b9-470c-94a1-fd48da3e99ab",
+    "date": "2024-03-18",
+    "time": "12:28",
+    "weightKg": 76.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.886091Z",
+    "updatedAt": null
+  },
+  {
+    "id": "ee76faf5-f4a4-441e-bef8-18b960cca5b7",
+    "date": "2024-03-19",
+    "time": "12:29",
+    "weightKg": 76.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.886091Z",
+    "updatedAt": null
+  },
+  {
+    "id": "2e47a1b2-9e90-478f-9367-6e3ba69bf1c3",
+    "date": "2024-03-20",
+    "time": "13:25",
+    "weightKg": 76.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.886091Z",
+    "updatedAt": null
+  },
+  {
+    "id": "7f2cabfc-ffa1-40a4-9dbf-5b01bd47c708",
+    "date": "2024-03-21",
+    "time": "13:18",
+    "weightKg": 76.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.886091Z",
+    "updatedAt": null
+  },
+  {
+    "id": "0ff50245-545f-4ab4-b5cf-2dd2dfb8674b",
+    "date": "2024-03-22",
+    "time": "09:19",
+    "weightKg": 76.55,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.886091Z",
+    "updatedAt": null
+  },
+  {
+    "id": "c560c0ca-2852-4e55-b755-f463c4d15816",
+    "date": "2024-03-23",
+    "time": "15:12",
+    "weightKg": 74.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.886091Z",
+    "updatedAt": null
+  },
+  {
+    "id": "d51927f6-8019-4ca0-8aec-f4e2e4257109",
+    "date": "2024-03-24",
+    "time": "16:03",
+    "weightKg": 74.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.886514Z",
+    "updatedAt": null
+  },
+  {
+    "id": "d343a9ca-5279-4f73-8c41-d4b4e1aa81a8",
+    "date": "2024-03-25",
+    "time": "13:51",
+    "weightKg": 74.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.886576Z",
+    "updatedAt": null
+  },
+  {
+    "id": "3f92caf2-c310-47f0-b325-78541450bca7",
+    "date": "2024-03-26",
+    "time": "13:32",
+    "weightKg": 76.05,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.886576Z",
+    "updatedAt": null
+  },
+  {
+    "id": "d6a57c41-c689-4a51-b0a9-6636f154539c",
+    "date": "2024-03-27",
+    "time": "13:57",
+    "weightKg": 75.25,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.886576Z",
+    "updatedAt": null
+  },
+  {
+    "id": "2c5d646d-8987-4c8c-ba94-f6fa9d21e0b6",
+    "date": "2024-03-28",
+    "time": "12:12",
+    "weightKg": 75.25,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.886576Z",
+    "updatedAt": null
+  },
+  {
+    "id": "5a9ef6b0-b9a6-40cd-be69-d870c787bbc4",
+    "date": "2024-03-29",
+    "time": "12:24",
+    "weightKg": 75.25,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.886576Z",
+    "updatedAt": null
+  },
+  {
+    "id": "e7bc89b6-d8b2-401e-bf18-8db642f89e91",
+    "date": "2024-03-30",
+    "time": "12:24",
+    "weightKg": 74.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.886576Z",
+    "updatedAt": null
+  },
+  {
+    "id": "457e9269-7348-407a-9644-9426e9aee3c1",
+    "date": "2024-03-31",
+    "time": "15:43",
+    "weightKg": 74.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.886576Z",
+    "updatedAt": null
+  },
+  {
+    "id": "b40a3e0b-293c-4aae-92c9-162481224952",
+    "date": "2024-04-01",
+    "time": "14:47",
+    "weightKg": 75.95,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.886576Z",
+    "updatedAt": null
+  },
+  {
+    "id": "86e541ba-7d9a-4081-abf2-703723bf3448",
+    "date": "2024-04-02",
+    "time": "15:50",
+    "weightKg": 74.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.886576Z",
+    "updatedAt": null
+  },
+  {
+    "id": "2fb2a003-68c1-4c35-9212-009f873db7d0",
+    "date": "2024-04-03",
+    "time": "10:32",
+    "weightKg": 74.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.886576Z",
+    "updatedAt": null
+  },
+  {
+    "id": "0693484f-a331-4a42-88b9-99d8f1a8bcda",
+    "date": "2024-04-04",
+    "time": "12:03",
+    "weightKg": 76.05,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.886576Z",
+    "updatedAt": null
+  },
+  {
+    "id": "228192b9-8c3d-4bee-8dea-37d7bf0733ac",
+    "date": "2024-04-05",
+    "time": "16:34",
+    "weightKg": 74.95,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.886576Z",
+    "updatedAt": null
+  },
+  {
+    "id": "f3115468-e521-4868-91a0-9cab47543d24",
+    "date": "2024-04-06",
+    "time": "16:15",
+    "weightKg": 74.65,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.886576Z",
+    "updatedAt": null
+  },
+  {
+    "id": "f66ad410-cf3e-45ea-a23f-e572a7b48a57",
+    "date": "2024-04-07",
+    "time": "19:40",
+    "weightKg": 74.35,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.887574Z",
+    "updatedAt": null
+  },
+  {
+    "id": "7333dc41-e803-4d47-8950-a476ff8e4a68",
+    "date": "2024-04-08",
+    "time": "16:10",
+    "weightKg": 75.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.887574Z",
+    "updatedAt": null
+  },
+  {
+    "id": "8ed54010-05b9-4ebb-94a6-ba9c192a551c",
+    "date": "2024-04-09",
+    "time": "12:06",
+    "weightKg": 75.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.887574Z",
+    "updatedAt": null
+  },
+  {
+    "id": "13de7200-067b-48ac-88bd-baf99b116dfc",
+    "date": "2024-04-10",
+    "time": "14:06",
+    "weightKg": 74.35,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.887574Z",
+    "updatedAt": null
+  },
+  {
+    "id": "18d6e0d6-0a94-4fcf-949c-67a6eafafd10",
+    "date": "2024-04-11",
+    "time": "13:54",
+    "weightKg": 75.05,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.887574Z",
+    "updatedAt": null
+  },
+  {
+    "id": "db0a3a4c-7f70-4b0f-bc00-4ccf79865d1e",
+    "date": "2024-04-12",
+    "time": "13:53",
+    "weightKg": 75.05,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.887574Z",
+    "updatedAt": null
+  },
+  {
+    "id": "098ff8f3-7ca0-4f75-98c2-79e0c6d60a3a",
+    "date": "2024-04-13",
+    "time": "12:28",
+    "weightKg": 74.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.887574Z",
+    "updatedAt": null
+  },
+  {
+    "id": "da3b652c-2c94-4c39-aca1-13563b757a7b",
+    "date": "2024-04-14",
+    "time": "18:07",
+    "weightKg": 74.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.887574Z",
+    "updatedAt": null
+  },
+  {
+    "id": "e4b4bc93-50e6-47c0-a37e-7d4eea921c01",
+    "date": "2024-04-15",
+    "time": "12:34",
+    "weightKg": 74.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.887574Z",
+    "updatedAt": null
+  },
+  {
+    "id": "38299a94-ea51-4ed8-9380-6acfb3897bfa",
+    "date": "2024-04-16",
+    "time": "12:41",
+    "weightKg": 74.65,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.887574Z",
+    "updatedAt": null
+  },
+  {
+    "id": "e889300d-00f1-49d1-acd3-383566010c23",
+    "date": "2024-04-17",
+    "time": "12:50",
+    "weightKg": 75.3,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.887574Z",
+    "updatedAt": null
+  },
+  {
+    "id": "61c0a907-bfd7-498b-9f84-63a3cdfd8dbd",
+    "date": "2024-04-18",
+    "time": "11:12",
+    "weightKg": 74.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.887574Z",
+    "updatedAt": null
+  },
+  {
+    "id": "dcca6341-6c1b-47e2-be67-2ddf64f945d2",
+    "date": "2024-04-19",
+    "time": "07:50",
+    "weightKg": 74.25,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.887574Z",
+    "updatedAt": null
+  },
+  {
+    "id": "cd9151f9-399f-44ff-96f3-a1b63a3ba191",
+    "date": "2024-04-20",
+    "time": "13:54",
+    "weightKg": 73.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.887574Z",
+    "updatedAt": null
+  },
+  {
+    "id": "b34a8d65-1bde-4585-a56e-d1ccb3ca8713",
+    "date": "2024-04-21",
+    "time": "14:44",
+    "weightKg": 73.0,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.888574Z",
+    "updatedAt": null
+  },
+  {
+    "id": "ffcb9476-4999-4a0e-8148-0e0ee74861ee",
+    "date": "2024-04-22",
+    "time": "13:33",
+    "weightKg": 73.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.888574Z",
+    "updatedAt": null
+  },
+  {
+    "id": "a014fa24-0748-4269-97fa-cbd802a9b07d",
+    "date": "2024-04-23",
+    "time": "14:09",
+    "weightKg": 73.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.888574Z",
+    "updatedAt": null
+  },
+  {
+    "id": "ab15a7a7-8ae2-449f-89ea-732072b5ab20",
+    "date": "2024-04-24",
+    "time": "14:00",
+    "weightKg": 73.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.888574Z",
+    "updatedAt": null
+  },
+  {
+    "id": "9de00807-9af6-439e-8ff0-1aea23a16111",
+    "date": "2024-04-25",
+    "time": "08:35",
+    "weightKg": 73.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.888574Z",
+    "updatedAt": null
+  },
+  {
+    "id": "a73121c5-7197-48ab-9f3c-5252f3b7a3b5",
+    "date": "2024-04-26",
+    "time": "07:13",
+    "weightKg": 73.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.888574Z",
+    "updatedAt": null
+  },
+  {
+    "id": "e749ae71-a85b-4830-9a2c-82ab286d2edd",
+    "date": "2024-04-27",
+    "time": "13:25",
+    "weightKg": 73.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.888574Z",
+    "updatedAt": null
+  },
+  {
+    "id": "e4337425-2356-41e9-9652-56578afb5be3",
+    "date": "2024-04-28",
+    "time": "14:00",
+    "weightKg": 73.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.888995Z",
+    "updatedAt": null
+  },
+  {
+    "id": "5f5e0f27-3f9f-4511-bcff-6322af7e4722",
+    "date": "2024-04-29",
+    "time": "13:32",
+    "weightKg": 73.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.889057Z",
+    "updatedAt": null
+  },
+  {
+    "id": "ddf28f3d-6e53-4f85-8de9-14ad369c2879",
+    "date": "2024-04-30",
+    "time": "13:25",
+    "weightKg": 73.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.889057Z",
+    "updatedAt": null
+  },
+  {
+    "id": "de79fddd-c62b-4a4d-b000-3d2835695fe1",
+    "date": "2024-05-01",
+    "time": "16:23",
+    "weightKg": 73.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.889057Z",
+    "updatedAt": null
+  },
+  {
+    "id": "82e9bbef-58d6-457e-87a0-14da5336188e",
+    "date": "2024-05-02",
+    "time": "13:18",
+    "weightKg": 73.0,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.889057Z",
+    "updatedAt": null
+  },
+  {
+    "id": "1c1cd96d-2318-4363-ab96-958117b68ba6",
+    "date": "2024-05-03",
+    "time": "07:37",
+    "weightKg": 73.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.889057Z",
+    "updatedAt": null
+  },
+  {
+    "id": "6dd33ed8-a810-45cd-af5f-cd59a367aedf",
+    "date": "2024-05-04",
+    "time": "15:35",
+    "weightKg": 72.55,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.889355Z",
+    "updatedAt": null
+  },
+  {
+    "id": "ac0a4c64-e354-4bd2-a546-c657e863a9e1",
+    "date": "2024-05-05",
+    "time": "11:53",
+    "weightKg": 73.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.889410Z",
+    "updatedAt": null
+  },
+  {
+    "id": "f53b1166-239e-49fd-b698-07d6d33962e5",
+    "date": "2024-05-06",
+    "time": "09:53",
+    "weightKg": 72.55,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.889410Z",
+    "updatedAt": null
+  },
+  {
+    "id": "1d470197-6938-4d6d-ab23-f2c1540aff45",
+    "date": "2024-05-07",
+    "time": "14:12",
+    "weightKg": 72.55,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.889410Z",
+    "updatedAt": null
+  },
+  {
+    "id": "bf2bd18e-7f44-45fa-803c-2f1535b256ef",
+    "date": "2024-05-08",
+    "time": "11:23",
+    "weightKg": 73.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.889410Z",
+    "updatedAt": null
+  },
+  {
+    "id": "afba38fc-69d2-4a25-adaf-5ae2934df626",
+    "date": "2024-05-09",
+    "time": "09:54",
+    "weightKg": 72.55,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.889635Z",
+    "updatedAt": null
+  },
+  {
+    "id": "344e7936-6b42-43fb-b239-c01ac432eb7b",
+    "date": "2024-05-10",
+    "time": "10:40",
+    "weightKg": 72.55,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.889722Z",
+    "updatedAt": null
+  },
+  {
+    "id": "930c0209-762a-4779-b36d-7ec1c80896d0",
+    "date": "2024-05-11",
+    "time": "11:50",
+    "weightKg": 71.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.889722Z",
+    "updatedAt": null
+  },
+  {
+    "id": "2e8f64dd-c082-4e26-bc5b-f2c19d3e4b65",
+    "date": "2024-05-12",
+    "time": "13:36",
+    "weightKg": 73.0,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.889722Z",
+    "updatedAt": null
+  },
+  {
+    "id": "531e89c7-782a-41a5-8c78-e33996c67641",
+    "date": "2024-05-13",
+    "time": "11:57",
+    "weightKg": 73.0,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.889722Z",
+    "updatedAt": null
+  },
+  {
+    "id": "d935c0f7-4e35-4941-b400-e9d0a0ebb834",
+    "date": "2024-05-14",
+    "time": "11:51",
+    "weightKg": 71.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.889722Z",
+    "updatedAt": null
+  },
+  {
+    "id": "f95c6571-a4f7-40cd-8ce7-15d375d1bf9b",
+    "date": "2024-05-15",
+    "time": "12:38",
+    "weightKg": 71.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.889722Z",
+    "updatedAt": null
+  },
+  {
+    "id": "9dd17727-29ab-4341-81f8-172febe35ded",
+    "date": "2024-05-16",
+    "time": "12:49",
+    "weightKg": 71.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.889722Z",
+    "updatedAt": null
+  },
+  {
+    "id": "3c7ac6f4-6491-492a-ab4e-f49ce6ae2108",
+    "date": "2024-05-17",
+    "time": "12:17",
+    "weightKg": 71.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.890107Z",
+    "updatedAt": null
+  },
+  {
+    "id": "d8b812eb-90e3-4a21-8f01-a06d52e5ba88",
+    "date": "2024-05-18",
+    "time": "11:44",
+    "weightKg": 71.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.890162Z",
+    "updatedAt": null
+  },
+  {
+    "id": "594ea623-0978-48b0-8cd8-0db16f03ab1c",
+    "date": "2024-05-19",
+    "time": "15:49",
+    "weightKg": 71.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.890162Z",
+    "updatedAt": null
+  },
+  {
+    "id": "3b7e11ff-4474-48c5-b2c3-63a6ce57282f",
+    "date": "2024-05-20",
+    "time": "12:57",
+    "weightKg": 71.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.890162Z",
+    "updatedAt": null
+  },
+  {
+    "id": "9d28a1ec-6722-401f-8122-28f94bb13787",
+    "date": "2024-05-21",
+    "time": "10:49",
+    "weightKg": 71.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.890162Z",
+    "updatedAt": null
+  },
+  {
+    "id": "49d03e6e-8f05-477c-bd99-aa576abec849",
+    "date": "2024-05-22",
+    "time": "11:36",
+    "weightKg": 71.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.890400Z",
+    "updatedAt": null
+  },
+  {
+    "id": "8b6fec83-209a-41bd-ba79-ca445bd2921e",
+    "date": "2024-05-23",
+    "time": "13:19",
+    "weightKg": 71.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.890452Z",
+    "updatedAt": null
+  },
+  {
+    "id": "b17a0451-6abb-45af-ae20-4106c2b9e224",
+    "date": "2024-05-24",
+    "time": "10:49",
+    "weightKg": 71.15,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.890452Z",
+    "updatedAt": null
+  },
+  {
+    "id": "e8d709db-8c0f-4389-a1f1-287fa9faaf4f",
+    "date": "2024-05-25",
+    "time": "12:15",
+    "weightKg": 71.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.890452Z",
+    "updatedAt": null
+  },
+  {
+    "id": "1bb62acd-69e9-4f93-bf17-c5106e7e7276",
+    "date": "2024-05-26",
+    "time": "15:13",
+    "weightKg": 71.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.890681Z",
+    "updatedAt": null
+  },
+  {
+    "id": "d3c1750a-b33a-4857-bf9b-50cba66273b1",
+    "date": "2024-05-27",
+    "time": "14:23",
+    "weightKg": 72.15,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.890741Z",
+    "updatedAt": null
+  },
+  {
+    "id": "4d0cb9c2-9a9a-45f8-bc0b-36541daefc48",
+    "date": "2024-05-28",
+    "time": "08:00",
+    "weightKg": 71.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.890741Z",
+    "updatedAt": null
+  },
+  {
+    "id": "b6f718bb-28cc-460f-83e1-90b23c67c9a7",
+    "date": "2024-05-29",
+    "time": "13:23",
+    "weightKg": 70.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.890741Z",
+    "updatedAt": null
+  },
+  {
+    "id": "5d391a8a-1238-4bfc-99f7-c1e15e3ab0c2",
+    "date": "2024-05-30",
+    "time": "12:34",
+    "weightKg": 70.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.890741Z",
+    "updatedAt": null
+  },
+  {
+    "id": "0feedf44-3443-4b45-a75a-a5bf8c2803d3",
+    "date": "2024-05-31",
+    "time": "08:00",
+    "weightKg": 70.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.890741Z",
+    "updatedAt": null
+  },
+  {
+    "id": "1ed8ccde-3b92-4b75-89af-fb52a6c0a4b4",
+    "date": "2024-06-01",
+    "time": "09:14",
+    "weightKg": 70.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.890998Z",
+    "updatedAt": null
+  },
+  {
+    "id": "2ce0fda4-c5db-4e5f-aeda-3d57af4458fb",
+    "date": "2024-06-02",
+    "time": "12:48",
+    "weightKg": 70.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.891053Z",
+    "updatedAt": null
+  },
+  {
+    "id": "cfd957f9-0e84-49ca-8b53-25ed5353df5b",
+    "date": "2024-06-03",
+    "time": "12:52",
+    "weightKg": 70.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.891053Z",
+    "updatedAt": null
+  },
+  {
+    "id": "8c6ada68-973e-414d-9f8a-7d7d2ef6ee54",
+    "date": "2024-06-04",
+    "time": "13:54",
+    "weightKg": 70.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.891053Z",
+    "updatedAt": null
+  },
+  {
+    "id": "ae993ed2-6c4d-4aa7-877d-f786bd4b99b5",
+    "date": "2024-06-05",
+    "time": "11:44",
+    "weightKg": 70.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.891053Z",
+    "updatedAt": null
+  },
+  {
+    "id": "2b82dfb8-ccea-4e56-a1e7-5b5ab2c43f55",
+    "date": "2024-06-06",
+    "time": "13:47",
+    "weightKg": 70.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.891053Z",
+    "updatedAt": null
+  },
+  {
+    "id": "2854d3c6-a001-463b-bdff-854cf56b0cdf",
+    "date": "2024-06-07",
+    "time": "07:35",
+    "weightKg": 70.25,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.891053Z",
+    "updatedAt": null
+  },
+  {
+    "id": "de1256c1-d668-4c2a-ae18-8e48bc0c665e",
+    "date": "2024-06-08",
+    "time": "12:41",
+    "weightKg": 69.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.891451Z",
+    "updatedAt": null
+  },
+  {
+    "id": "19445e88-b53f-4f99-8086-bc46aadafed2",
+    "date": "2024-06-09",
+    "time": "13:49",
+    "weightKg": 70.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.891470Z",
+    "updatedAt": null
+  },
+  {
+    "id": "e322c9cb-9939-42f2-b503-9f1098a8af17",
+    "date": "2024-06-10",
+    "time": "12:09",
+    "weightKg": 70.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.891526Z",
+    "updatedAt": null
+  },
+  {
+    "id": "85921312-fe12-4379-b650-eff82ebb2e7c",
+    "date": "2024-06-11",
+    "time": "11:27",
+    "weightKg": 71.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.891526Z",
+    "updatedAt": null
+  },
+  {
+    "id": "198efd70-d0fd-4b28-b097-e3abf6cd7d0c",
+    "date": "2024-06-12",
+    "time": "12:20",
+    "weightKg": 70.65,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.891526Z",
+    "updatedAt": null
+  },
+  {
+    "id": "9e7864c5-d554-486d-8552-8ccbb88a3415",
+    "date": "2024-06-13",
+    "time": "07:11",
+    "weightKg": 70.65,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.891742Z",
+    "updatedAt": null
+  },
+  {
+    "id": "6f91073e-7775-450e-b47c-74ca0ceee515",
+    "date": "2024-06-14",
+    "time": "07:02",
+    "weightKg": 70.65,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.891786Z",
+    "updatedAt": null
+  },
+  {
+    "id": "6a328064-a553-4aea-a625-63f55ebb7482",
+    "date": "2024-06-15",
+    "time": "14:51",
+    "weightKg": 69.95,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.891786Z",
+    "updatedAt": null
+  },
+  {
+    "id": "f3c498cc-7703-4bc9-a5d6-1d4cccfa2103",
+    "date": "2024-06-16",
+    "time": "12:17",
+    "weightKg": 70.6,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.891786Z",
+    "updatedAt": null
+  },
+  {
+    "id": "dfd9b7d7-41b0-4c83-9926-f96827733fa0",
+    "date": "2024-06-17",
+    "time": "13:52",
+    "weightKg": 72.0,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.891786Z",
+    "updatedAt": null
+  },
+  {
+    "id": "97b3f1aa-0d19-41cf-9bc2-d74420c3a6aa",
+    "date": "2024-06-18",
+    "time": "11:54",
+    "weightKg": 71.35,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.892045Z",
+    "updatedAt": null
+  },
+  {
+    "id": "5087363f-eccc-48dd-8520-6332174b1c9c",
+    "date": "2024-06-19",
+    "time": "15:15",
+    "weightKg": 71.0,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.892102Z",
+    "updatedAt": null
+  },
+  {
+    "id": "793c7f9f-6e1c-4fc2-aa0a-590a84998be0",
+    "date": "2024-06-20",
+    "time": "12:38",
+    "weightKg": 70.65,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.892102Z",
+    "updatedAt": null
+  },
+  {
+    "id": "76d67e5b-5889-4c50-a217-c27a57f4f41b",
+    "date": "2024-06-21",
+    "time": "13:09",
+    "weightKg": 70.05,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.892102Z",
+    "updatedAt": null
+  },
+  {
+    "id": "bfce460f-d2ca-4a91-98a9-cfb3e6837e7d",
+    "date": "2024-06-22",
+    "time": "16:50",
+    "weightKg": 70.05,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.892102Z",
+    "updatedAt": null
+  },
+  {
+    "id": "0929bffc-fa07-4f97-a048-3dbc585188c8",
+    "date": "2024-06-23",
+    "time": "17:05",
+    "weightKg": 69.0,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.892102Z",
+    "updatedAt": null
+  },
+  {
+    "id": "21046687-2400-441b-ab7d-bbc61e1e6ccb",
+    "date": "2024-06-24",
+    "time": "10:41",
+    "weightKg": 69.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.892415Z",
+    "updatedAt": null
+  },
+  {
+    "id": "472e4332-a5c0-49cc-8d61-44734b2b467c",
+    "date": "2024-06-25",
+    "time": "07:10",
+    "weightKg": 70.05,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.892415Z",
+    "updatedAt": null
+  },
+  {
+    "id": "1c916a8e-cb2b-4806-bd69-0ad9fdecbe7f",
+    "date": "2024-06-26",
+    "time": "14:28",
+    "weightKg": 69.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.892415Z",
+    "updatedAt": null
+  },
+  {
+    "id": "0fd5992c-c479-45ba-a972-3c62ada25d9b",
+    "date": "2024-06-27",
+    "time": "13:34",
+    "weightKg": 69.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.892415Z",
+    "updatedAt": null
+  },
+  {
+    "id": "e20243d3-1924-4c58-ab15-a55ada9679f8",
+    "date": "2024-06-28",
+    "time": "10:09",
+    "weightKg": 69.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.892415Z",
+    "updatedAt": null
+  },
+  {
+    "id": "717a1192-e024-4503-b2a0-eda258eae847",
+    "date": "2024-06-29",
+    "time": "10:12",
+    "weightKg": 69.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.892415Z",
+    "updatedAt": null
+  },
+  {
+    "id": "fd6b83fe-b4d8-4609-b118-f20d6c389857",
+    "date": "2024-06-30",
+    "time": "16:54",
+    "weightKg": 69.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.892415Z",
+    "updatedAt": null
+  },
+  {
+    "id": "7200c71d-7cd7-4f17-b2e1-c539b8c080bf",
+    "date": "2024-07-01",
+    "time": "12:29",
+    "weightKg": 69.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.892798Z",
+    "updatedAt": null
+  },
+  {
+    "id": "ea733081-f2c6-4b4c-a60d-537c7847b184",
+    "date": "2024-07-02",
+    "time": "09:57",
+    "weightKg": 69.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.892853Z",
+    "updatedAt": null
+  },
+  {
+    "id": "16f88f4a-bae6-4142-9e63-25fc65c2e692",
+    "date": "2024-07-03",
+    "time": "09:02",
+    "weightKg": 69.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.892853Z",
+    "updatedAt": null
+  },
+  {
+    "id": "716b0329-bb8e-49fe-9197-bfb1f24e2d24",
+    "date": "2024-07-04",
+    "time": "12:10",
+    "weightKg": 69.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.892853Z",
+    "updatedAt": null
+  },
+  {
+    "id": "32d2dddc-66e3-4a68-880e-3aa69834747f",
+    "date": "2024-07-05",
+    "time": "12:07",
+    "weightKg": 69.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.892853Z",
+    "updatedAt": null
+  },
+  {
+    "id": "91101848-9e1f-443e-9d8d-4d55b583c840",
+    "date": "2024-07-06",
+    "time": "14:41",
+    "weightKg": 69.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.893117Z",
+    "updatedAt": null
+  },
+  {
+    "id": "b986ca76-de2a-4893-82d9-ce07f5bae2d8",
+    "date": "2024-07-07",
+    "time": "14:06",
+    "weightKg": 70.15,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.893169Z",
+    "updatedAt": null
+  },
+  {
+    "id": "95e7a70c-4762-45a8-8d95-04bd65df801a",
+    "date": "2024-07-08",
+    "time": "15:07",
+    "weightKg": 70.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.893169Z",
+    "updatedAt": null
+  },
+  {
+    "id": "ebabc1d1-939c-45bb-a38e-edd56c3fea06",
+    "date": "2024-07-09",
+    "time": "11:10",
+    "weightKg": 71.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.893169Z",
+    "updatedAt": null
+  },
+  {
+    "id": "28c8dcc0-2096-45c8-ba44-3c97c7185443",
+    "date": "2024-07-10",
+    "time": "13:30",
+    "weightKg": 70.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.893169Z",
+    "updatedAt": null
+  },
+  {
+    "id": "ee886feb-e757-4cf9-8864-f1867e605669",
+    "date": "2024-07-11",
+    "time": "09:10",
+    "weightKg": 70.0,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.893169Z",
+    "updatedAt": null
+  },
+  {
+    "id": "33466afc-a54d-44b0-b7aa-204cc6916b1d",
+    "date": "2024-07-12",
+    "time": "06:52",
+    "weightKg": 70.0,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.893450Z",
+    "updatedAt": null
+  },
+  {
+    "id": "827954b7-6386-4f92-a6fb-8bb1463f4a86",
+    "date": "2024-07-13",
+    "time": "07:59",
+    "weightKg": 70.25,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.893502Z",
+    "updatedAt": null
+  },
+  {
+    "id": "77a6f25d-c326-42b4-b4c1-858f905d4065",
+    "date": "2024-07-14",
+    "time": "07:39",
+    "weightKg": 68.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.893502Z",
+    "updatedAt": null
+  },
+  {
+    "id": "aa26914b-1f6d-41a5-8001-223fc2058575",
+    "date": "2024-07-15",
+    "time": "13:08",
+    "weightKg": 69.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.893502Z",
+    "updatedAt": null
+  },
+  {
+    "id": "4d0566a5-c8ef-42ba-9cf6-2e66bcbfbfef",
+    "date": "2024-07-16",
+    "time": "12:31",
+    "weightKg": 69.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.893502Z",
+    "updatedAt": null
+  },
+  {
+    "id": "41e4cbe3-fc26-4b6d-be60-3b957306ed7f",
+    "date": "2024-07-17",
+    "time": "13:31",
+    "weightKg": 70.45,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.893751Z",
+    "updatedAt": null
+  },
+  {
+    "id": "f8877b04-30e3-48c5-a26f-86caf333e0a7",
+    "date": "2024-07-18",
+    "time": "12:54",
+    "weightKg": 70.45,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.893799Z",
+    "updatedAt": null
+  },
+  {
+    "id": "8c6c3cb6-4522-415a-9327-b4bb5e0ed1e3",
+    "date": "2024-07-19",
+    "time": "12:56",
+    "weightKg": 70.45,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.893799Z",
+    "updatedAt": null
+  },
+  {
+    "id": "2198baff-a424-4875-a1d2-a4a2829fe8f9",
+    "date": "2024-07-20",
+    "time": "08:04",
+    "weightKg": 70.45,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.893799Z",
+    "updatedAt": null
+  },
+  {
+    "id": "971d5446-4630-42fa-bcdb-f7e4cf9536b2",
+    "date": "2024-07-21",
+    "time": "09:10",
+    "weightKg": 69.75,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.893799Z",
+    "updatedAt": null
+  },
+  {
+    "id": "ec574c0a-1aec-48a0-9e63-d7e5a89ede0b",
+    "date": "2024-07-22",
+    "time": "12:40",
+    "weightKg": 70.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.893799Z",
+    "updatedAt": null
+  },
+  {
+    "id": "11914f79-a7a0-4f16-9781-aeec237bfedb",
+    "date": "2024-07-23",
+    "time": "12:41",
+    "weightKg": 70.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.894138Z",
+    "updatedAt": null
+  },
+  {
+    "id": "96f930ea-11f8-4cdc-ba4d-96426353600c",
+    "date": "2024-07-24",
+    "time": "10:28",
+    "weightKg": 70.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.894198Z",
+    "updatedAt": null
+  },
+  {
+    "id": "0d0e095b-de33-49d1-8190-f6d09c39c76d",
+    "date": "2024-07-25",
+    "time": "09:41",
+    "weightKg": 70.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.894198Z",
+    "updatedAt": null
+  },
+  {
+    "id": "cd928193-0f21-4351-9b82-27a8dd01bcce",
+    "date": "2024-07-26",
+    "time": "11:11",
+    "weightKg": 69.0,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.894198Z",
+    "updatedAt": null
+  },
+  {
+    "id": "3a421580-94bf-4873-ac6b-1e373b2de6b8",
+    "date": "2024-07-27",
+    "time": "08:25",
+    "weightKg": 69.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.894198Z",
+    "updatedAt": null
+  },
+  {
+    "id": "a52921d1-a627-4725-83b8-5d25f1546683",
+    "date": "2024-07-28",
+    "time": "16:44",
+    "weightKg": 70.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.894198Z",
+    "updatedAt": null
+  },
+  {
+    "id": "d2f11243-149b-4de6-a4a4-5073c41b309d",
+    "date": "2024-07-29",
+    "time": "12:57",
+    "weightKg": 70.0,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.894480Z",
+    "updatedAt": null
+  },
+  {
+    "id": "6b80320c-0fac-46a3-bee8-cd7b9128fc8b",
+    "date": "2024-07-30",
+    "time": "12:36",
+    "weightKg": 70.0,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.894545Z",
+    "updatedAt": null
+  },
+  {
+    "id": "7761addc-5119-4250-ba69-f0e6108564ea",
+    "date": "2024-07-31",
+    "time": "13:29",
+    "weightKg": 69.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.894545Z",
+    "updatedAt": null
+  },
+  {
+    "id": "221e1fb9-5e44-4629-940e-56df49c015eb",
+    "date": "2024-08-01",
+    "time": "12:55",
+    "weightKg": 68.95,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.894545Z",
+    "updatedAt": null
+  },
+  {
+    "id": "dace4f30-f8b2-4db4-9c7f-6e4a40961a0c",
+    "date": "2024-08-02",
+    "time": "11:20",
+    "weightKg": 69.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.894545Z",
+    "updatedAt": null
+  },
+  {
+    "id": "2a7b1b97-19d1-4268-a4b9-0e43e43eedfb",
+    "date": "2024-08-03",
+    "time": "08:15",
+    "weightKg": 69.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.894783Z",
+    "updatedAt": null
+  },
+  {
+    "id": "0c7313ec-8d51-4eaa-a13e-9748c1c59ef0",
+    "date": "2024-08-04",
+    "time": "09:27",
+    "weightKg": 68.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.894835Z",
+    "updatedAt": null
+  },
+  {
+    "id": "5ff6303b-3eee-449b-b81c-76ed2a57df01",
+    "date": "2024-08-05",
+    "time": "11:57",
+    "weightKg": 70.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.894835Z",
+    "updatedAt": null
+  },
+  {
+    "id": "6b47c76a-80fd-4a8a-8d7c-d57c76ecee3a",
+    "date": "2024-08-06",
+    "time": "10:01",
+    "weightKg": 69.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.894835Z",
+    "updatedAt": null
+  },
+  {
+    "id": "d825b0f8-027f-4a79-bf86-a306701b7cf3",
+    "date": "2024-08-07",
+    "time": "11:08",
+    "weightKg": 70.85,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.894835Z",
+    "updatedAt": null
+  },
+  {
+    "id": "c2e9d936-bd2d-43b1-806d-27e7caaad0c0",
+    "date": "2024-08-08",
+    "time": "12:24",
+    "weightKg": 69.95,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.895099Z",
+    "updatedAt": null
+  },
+  {
+    "id": "359963fe-462a-4a53-ba9d-79827448cc5f",
+    "date": "2024-08-09",
+    "time": "11:17",
+    "weightKg": 69.95,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.895163Z",
+    "updatedAt": null
+  },
+  {
+    "id": "41e9b62a-75ae-4605-aef7-984c38d95e6e",
+    "date": "2024-08-10",
+    "time": "08:22",
+    "weightKg": 69.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.895163Z",
+    "updatedAt": null
+  },
+  {
+    "id": "93384991-6750-4750-b26c-e4409c696d43",
+    "date": "2024-08-11",
+    "time": "11:12",
+    "weightKg": 69.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.895163Z",
+    "updatedAt": null
+  },
+  {
+    "id": "bfa8e4d8-a732-4476-9ea2-b3cec69874e3",
+    "date": "2024-08-12",
+    "time": "10:49",
+    "weightKg": 70.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.895163Z",
+    "updatedAt": null
+  },
+  {
+    "id": "285a7f32-e3d0-4e16-a461-ba3039e6dfbc",
+    "date": "2024-08-13",
+    "time": "11:00",
+    "weightKg": 69.85,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.895163Z",
+    "updatedAt": null
+  },
+  {
+    "id": "8f6cef10-9b3a-480a-ba47-d13c661e22e3",
+    "date": "2024-08-14",
+    "time": "05:29",
+    "weightKg": 69.15,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.895163Z",
+    "updatedAt": null
+  },
+  {
+    "id": "c19259ef-1d5d-4c4d-96f4-1cee87289a8f",
+    "date": "2024-08-15",
+    "time": "12:07",
+    "weightKg": 68.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.895163Z",
+    "updatedAt": null
+  },
+  {
+    "id": "27e015c4-f0e2-4ce6-87d4-6c593a53a04f",
+    "date": "2024-08-16",
+    "time": "11:02",
+    "weightKg": 69.15,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.895163Z",
+    "updatedAt": null
+  },
+  {
+    "id": "146d12f0-9109-4eda-b819-9c8845962fc0",
+    "date": "2024-08-17",
+    "time": "08:01",
+    "weightKg": 69.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.895610Z",
+    "updatedAt": null
+  },
+  {
+    "id": "d5cda7f1-68c4-448e-b898-1430be876c15",
+    "date": "2024-08-18",
+    "time": "11:12",
+    "weightKg": 69.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.895665Z",
+    "updatedAt": null
+  },
+  {
+    "id": "6af1412e-be1f-4590-a7e8-b117137fbc97",
+    "date": "2024-08-19",
+    "time": "11:01",
+    "weightKg": 70.0,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.895665Z",
+    "updatedAt": null
+  },
+  {
+    "id": "b257c1f6-fedf-4a2e-bf5f-9fe7ee5a04fe",
+    "date": "2024-08-20",
+    "time": "10:58",
+    "weightKg": 69.75,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.895665Z",
+    "updatedAt": null
+  },
+  {
+    "id": "3fb2475b-a409-4aca-9a0d-7d7d4c7efae8",
+    "date": "2024-08-21",
+    "time": "05:21",
+    "weightKg": 70.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.895665Z",
+    "updatedAt": null
+  },
+  {
+    "id": "7992fa96-b720-4a3a-80dc-92cae26ca050",
+    "date": "2024-08-22",
+    "time": "11:11",
+    "weightKg": 69.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.895665Z",
+    "updatedAt": null
+  },
+  {
+    "id": "c1f2becf-deca-473d-b666-64fc89a84908",
+    "date": "2024-08-23",
+    "time": "11:29",
+    "weightKg": 70.3,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.895665Z",
+    "updatedAt": null
+  },
+  {
+    "id": "70e81775-3496-4dfb-abb1-3ec4192e181b",
+    "date": "2024-08-24",
+    "time": "14:08",
+    "weightKg": 69.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.895665Z",
+    "updatedAt": null
+  },
+  {
+    "id": "6855299a-86ab-4ea5-9774-2ebfda7ea3ec",
+    "date": "2024-08-25",
+    "time": "11:08",
+    "weightKg": 69.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.895665Z",
+    "updatedAt": null
+  },
+  {
+    "id": "25308d5a-71c0-415c-babd-0273b3bc6a0e",
+    "date": "2024-08-26",
+    "time": "11:45",
+    "weightKg": 70.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.895665Z",
+    "updatedAt": null
+  },
+  {
+    "id": "8f23b27a-7961-4281-9ad1-46da0d3193d5",
+    "date": "2024-08-27",
+    "time": "12:02",
+    "weightKg": 70.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.895665Z",
+    "updatedAt": null
+  },
+  {
+    "id": "d376c6c7-6fc5-48de-8646-0eb36f43aa79",
+    "date": "2024-08-28",
+    "time": "05:55",
+    "weightKg": 70.0,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.895665Z",
+    "updatedAt": null
+  },
+  {
+    "id": "a456672d-e90b-47df-842e-f464a58e3438",
+    "date": "2024-08-29",
+    "time": "06:56",
+    "weightKg": 69.3,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.896335Z",
+    "updatedAt": null
+  },
+  {
+    "id": "3c77c78a-74e5-47a8-889b-c90d4814dd7e",
+    "date": "2024-08-30",
+    "time": "11:01",
+    "weightKg": 69.3,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.896396Z",
+    "updatedAt": null
+  },
+  {
+    "id": "139beb0e-90b1-4dc3-8c91-18aa22b071de",
+    "date": "2024-08-31",
+    "time": "09:25",
+    "weightKg": 69.3,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.896396Z",
+    "updatedAt": null
+  },
+  {
+    "id": "fa9b8d89-e0fb-485b-9b51-786a9668eafd",
+    "date": "2024-09-01",
+    "time": "09:59",
+    "weightKg": 69.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.896396Z",
+    "updatedAt": null
+  },
+  {
+    "id": "6cec6146-c3d4-44c1-8be9-9f862cd88fb7",
+    "date": "2024-09-02",
+    "time": "12:41",
+    "weightKg": 70.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.896396Z",
+    "updatedAt": null
+  },
+  {
+    "id": "75f55213-4973-4e34-9d84-1d6e6074bd43",
+    "date": "2024-09-03",
+    "time": "10:10",
+    "weightKg": 71.0,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.896396Z",
+    "updatedAt": null
+  },
+  {
+    "id": "91ef9ce5-2c02-40b5-a8c4-015bfb9eed95",
+    "date": "2024-09-04",
+    "time": "05:56",
+    "weightKg": 69.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.896716Z",
+    "updatedAt": null
+  },
+  {
+    "id": "9b25e811-df04-442e-a867-643f6fed9614",
+    "date": "2024-09-05",
+    "time": "10:09",
+    "weightKg": 70.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.896716Z",
+    "updatedAt": null
+  },
+  {
+    "id": "8a375e91-6df4-4096-8a7e-bd177d8d821b",
+    "date": "2024-09-06",
+    "time": "09:31",
+    "weightKg": 70.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.896716Z",
+    "updatedAt": null
+  },
+  {
+    "id": "ffa9f852-1065-4503-bafa-b77b9c1a06cd",
+    "date": "2024-09-07",
+    "time": "07:42",
+    "weightKg": 70.3,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.896716Z",
+    "updatedAt": null
+  },
+  {
+    "id": "2225aac6-4b5a-405e-bd9f-d9b2e164485f",
+    "date": "2024-09-08",
+    "time": "14:08",
+    "weightKg": 71.0,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.896716Z",
+    "updatedAt": null
+  },
+  {
+    "id": "f6ce8b00-e56d-4007-9a24-e8cda9b0b400",
+    "date": "2024-09-09",
+    "time": "11:14",
+    "weightKg": 70.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.896990Z",
+    "updatedAt": null
+  },
+  {
+    "id": "3523f0f7-cab5-49e2-b7f8-c775dca9db99",
+    "date": "2024-09-10",
+    "time": "10:48",
+    "weightKg": 71.0,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.897042Z",
+    "updatedAt": null
+  },
+  {
+    "id": "6b255503-60cf-4ae5-9b11-1030543df545",
+    "date": "2024-09-11",
+    "time": "05:52",
+    "weightKg": 69.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.897042Z",
+    "updatedAt": null
+  },
+  {
+    "id": "a8a94e82-183f-4f73-83d8-1bbf7da90644",
+    "date": "2024-09-12",
+    "time": "11:20",
+    "weightKg": 70.0,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.897042Z",
+    "updatedAt": null
+  },
+  {
+    "id": "dd83231a-00ef-4eb2-903d-c0423c80dff1",
+    "date": "2024-09-13",
+    "time": "10:27",
+    "weightKg": 69.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.897042Z",
+    "updatedAt": null
+  },
+  {
+    "id": "b5862568-e8d6-4349-bd26-be54c64ecac4",
+    "date": "2024-09-14",
+    "time": "13:06",
+    "weightKg": 69.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.897042Z",
+    "updatedAt": null
+  },
+  {
+    "id": "2d072f4a-e8f9-4a0f-8c1b-03fc3d6be2ca",
+    "date": "2024-09-15",
+    "time": "14:09",
+    "weightKg": 69.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.897042Z",
+    "updatedAt": null
+  },
+  {
+    "id": "b692c7b1-9daf-4a0c-b353-cb87fb0834c9",
+    "date": "2024-09-16",
+    "time": "11:38",
+    "weightKg": 69.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.897042Z",
+    "updatedAt": null
+  },
+  {
+    "id": "05c2de0c-62fb-4018-9d76-3daa51d83b80",
+    "date": "2024-09-17",
+    "time": "11:08",
+    "weightKg": 70.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.897475Z",
+    "updatedAt": null
+  },
+  {
+    "id": "7fb7a085-d453-4d8c-a375-dcc3a7f3fd49",
+    "date": "2024-09-18",
+    "time": "05:40",
+    "weightKg": 69.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.897475Z",
+    "updatedAt": null
+  },
+  {
+    "id": "e5e908e6-aedf-498d-9f4d-61c6d4c4fb1e",
+    "date": "2024-09-19",
+    "time": "11:54",
+    "weightKg": 69.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.897475Z",
+    "updatedAt": null
+  },
+  {
+    "id": "c37349a4-7cad-4db2-9995-e7e5eeffc8df",
+    "date": "2024-09-20",
+    "time": "10:25",
+    "weightKg": 69.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.897475Z",
+    "updatedAt": null
+  },
+  {
+    "id": "e1012829-9629-4f9b-8998-7673554f5ed0",
+    "date": "2024-09-21",
+    "time": "09:07",
+    "weightKg": 69.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.897475Z",
+    "updatedAt": null
+  },
+  {
+    "id": "614ff362-8498-4c94-97a8-94798512e24e",
+    "date": "2024-09-22",
+    "time": "12:54",
+    "weightKg": 69.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.897735Z",
+    "updatedAt": null
+  },
+  {
+    "id": "94e3e219-8a01-4ecb-aeb0-c231b32fe4cd",
+    "date": "2024-09-23",
+    "time": "11:34",
+    "weightKg": 70.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.897781Z",
+    "updatedAt": null
+  },
+  {
+    "id": "f6e95745-6584-4bd7-9c1e-083be9bf80e3",
+    "date": "2024-09-24",
+    "time": "12:10",
+    "weightKg": 69.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.897781Z",
+    "updatedAt": null
+  },
+  {
+    "id": "e6ec97ae-76d4-4948-aaa9-703736d870b0",
+    "date": "2024-09-25",
+    "time": "04:00",
+    "weightKg": 68.3,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.897781Z",
+    "updatedAt": null
+  },
+  {
+    "id": "10557c49-0ef1-4c19-bfb3-e9cb417dc24c",
+    "date": "2024-09-26",
+    "time": "08:08",
+    "weightKg": 68.3,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.897781Z",
+    "updatedAt": null
+  },
+  {
+    "id": "87373286-2732-4e63-8ab7-6014817391f1",
+    "date": "2024-09-27",
+    "time": "10:27",
+    "weightKg": 68.3,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.897781Z",
+    "updatedAt": null
+  },
+  {
+    "id": "0ec8ba64-3dd6-4cc7-b0ba-a7ba7c2a4343",
+    "date": "2024-09-28",
+    "time": "08:07",
+    "weightKg": 68.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.898081Z",
+    "updatedAt": null
+  },
+  {
+    "id": "7fa0912a-f922-4add-98db-a9e1acaf79ff",
+    "date": "2024-09-29",
+    "time": "12:15",
+    "weightKg": 68.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.898177Z",
+    "updatedAt": null
+  },
+  {
+    "id": "6dc6ea5c-2d21-45a9-aa4a-5f71d9e7329f",
+    "date": "2024-09-30",
+    "time": "11:51",
+    "weightKg": 68.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.898177Z",
+    "updatedAt": null
+  },
+  {
+    "id": "1b608244-1204-4133-adbc-3fff96d80378",
+    "date": "2024-10-01",
+    "time": "11:22",
+    "weightKg": 69.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.898177Z",
+    "updatedAt": null
+  },
+  {
+    "id": "3c4d98bd-dabe-4db3-9077-9eca0d57c72e",
+    "date": "2024-10-02",
+    "time": "10:13",
+    "weightKg": 67.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.898365Z",
+    "updatedAt": null
+  },
+  {
+    "id": "1334983c-711d-4ed4-9639-6ac75f655418",
+    "date": "2024-10-03",
+    "time": "12:08",
+    "weightKg": 68.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.898410Z",
+    "updatedAt": null
+  },
+  {
+    "id": "53cc2d89-b596-47cc-a7bb-59f314ae30ee",
+    "date": "2024-10-04",
+    "time": "10:43",
+    "weightKg": 68.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.898410Z",
+    "updatedAt": null
+  },
+  {
+    "id": "ffbe8f8b-ea7e-4804-ad3d-86872c3a265b",
+    "date": "2024-10-05",
+    "time": "10:58",
+    "weightKg": 68.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.898410Z",
+    "updatedAt": null
+  },
+  {
+    "id": "f3f85106-2660-4aaa-bf27-bf5607d79ebf",
+    "date": "2024-10-06",
+    "time": "09:58",
+    "weightKg": 68.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.898410Z",
+    "updatedAt": null
+  },
+  {
+    "id": "c8f04e64-9bbd-43d5-867d-45757dfc7ff8",
+    "date": "2024-10-07",
+    "time": "11:55",
+    "weightKg": 68.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.898410Z",
+    "updatedAt": null
+  },
+  {
+    "id": "9e320898-629f-4fbe-9970-e98914b8b06f",
+    "date": "2024-10-08",
+    "time": "11:52",
+    "weightKg": 68.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.898410Z",
+    "updatedAt": null
+  },
+  {
+    "id": "2f0e5242-8502-44dc-8cc3-36660dd2e7ab",
+    "date": "2024-10-09",
+    "time": "06:38",
+    "weightKg": 67.0,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.898410Z",
+    "updatedAt": null
+  },
+  {
+    "id": "8f885e61-bf1d-4a15-8ab2-de3ad46d411d",
+    "date": "2024-10-10",
+    "time": "11:22",
+    "weightKg": 67.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.898826Z",
+    "updatedAt": null
+  },
+  {
+    "id": "a274d583-f402-45a5-b373-0483de8221a6",
+    "date": "2024-10-11",
+    "time": "09:55",
+    "weightKg": 67.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.898879Z",
+    "updatedAt": null
+  },
+  {
+    "id": "34cfa319-26be-4f57-b68a-f3dd8bd11e51",
+    "date": "2024-10-12",
+    "time": "09:32",
+    "weightKg": 67.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.898879Z",
+    "updatedAt": null
+  },
+  {
+    "id": "3f1f78da-8535-42fe-aacf-9f36bd442b93",
+    "date": "2024-10-13",
+    "time": "11:58",
+    "weightKg": 68.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.898879Z",
+    "updatedAt": null
+  },
+  {
+    "id": "be1ebc9e-5b3d-4ff3-b15e-151e34d7e1b9",
+    "date": "2024-10-14",
+    "time": "12:49",
+    "weightKg": 69.6,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.898879Z",
+    "updatedAt": null
+  },
+  {
+    "id": "b19d6a8a-13f6-414e-9d05-fe42e83c3314",
+    "date": "2024-10-15",
+    "time": "12:36",
+    "weightKg": 70.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.898879Z",
+    "updatedAt": null
+  },
+  {
+    "id": "d0c676b2-ccf9-40a1-b88b-b66d39d8a9d6",
+    "date": "2024-10-16",
+    "time": "05:52",
+    "weightKg": 68.6,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.899185Z",
+    "updatedAt": null
+  },
+  {
+    "id": "4f0958d5-d9c2-4789-8594-0767440f2ddd",
+    "date": "2024-10-17",
+    "time": "12:06",
+    "weightKg": 68.3,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.899185Z",
+    "updatedAt": null
+  },
+  {
+    "id": "04602a22-68f3-442e-bb71-1653e3b3e4c6",
+    "date": "2024-10-18",
+    "time": "12:23",
+    "weightKg": 68.3,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.899185Z",
+    "updatedAt": null
+  },
+  {
+    "id": "49d17bbb-c63d-4fec-bee5-88be7a7af708",
+    "date": "2024-10-19",
+    "time": "08:21",
+    "weightKg": 69.0,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.899185Z",
+    "updatedAt": null
+  },
+  {
+    "id": "7c3cd2c3-06ae-40e5-b8b9-e353fdb5e4f7",
+    "date": "2024-10-20",
+    "time": "11:23",
+    "weightKg": 69.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.899416Z",
+    "updatedAt": null
+  },
+  {
+    "id": "5b2c41d1-9d3b-447f-b505-0c3535d240a3",
+    "date": "2024-10-21",
+    "time": "11:08",
+    "weightKg": 69.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.899471Z",
+    "updatedAt": null
+  },
+  {
+    "id": "c53cf992-5f9b-44d6-943d-ef2621ed8e15",
+    "date": "2024-10-22",
+    "time": "12:07",
+    "weightKg": 68.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.899471Z",
+    "updatedAt": null
+  },
+  {
+    "id": "34caca07-0343-45b8-855f-4a1939e2179d",
+    "date": "2024-10-23",
+    "time": "11:33",
+    "weightKg": 67.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.899471Z",
+    "updatedAt": null
+  },
+  {
+    "id": "cd33c0ea-01f6-4266-a044-f87236610f17",
+    "date": "2024-10-24",
+    "time": "12:59",
+    "weightKg": 68.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.899471Z",
+    "updatedAt": null
+  },
+  {
+    "id": "011ac7b9-bc96-4684-9c8e-1daa72221d82",
+    "date": "2024-10-25",
+    "time": "11:58",
+    "weightKg": 68.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.899471Z",
+    "updatedAt": null
+  },
+  {
+    "id": "1b894cdd-0ad0-4d45-b863-5e19314cfcc3",
+    "date": "2025-02-03",
+    "time": "09:55",
+    "weightKg": 69.45,
+    "notes": "volvimos!",
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.899759Z",
+    "updatedAt": null
+  },
+  {
+    "id": "726e6980-db14-48d2-a9c8-c6b56009fb4a",
+    "date": "2025-02-04",
+    "time": "10:27",
+    "weightKg": 69.0,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.899817Z",
+    "updatedAt": null
+  },
+  {
+    "id": "f28c96d6-2254-4bbd-b470-d8b3b5ff5978",
+    "date": "2025-02-05",
+    "time": "11:11",
+    "weightKg": 69.45,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.899817Z",
+    "updatedAt": null
+  },
+  {
+    "id": "5e4afbcf-2f6a-4c34-b2a8-83279bd45980",
+    "date": "2025-02-06",
+    "time": "12:48",
+    "weightKg": 69.45,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.899817Z",
+    "updatedAt": null
+  },
+  {
+    "id": "4c671330-c7e8-419f-b959-aec783e566e0",
+    "date": "2025-05-05",
+    "time": "09:35",
+    "weightKg": 69.7,
+    "notes": "WE'RE BACK!",
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.899817Z",
+    "updatedAt": null
+  },
+  {
+    "id": "072372f4-f892-42ff-9d3c-993b29352a73",
+    "date": "2025-05-06",
+    "time": "13:52",
+    "weightKg": 70.0,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.899817Z",
+    "updatedAt": null
+  },
+  {
+    "id": "e58ac877-34e7-48da-81fd-0bc3278ed881",
+    "date": "2025-05-07",
+    "time": "09:51",
+    "weightKg": 71.0,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.899817Z",
+    "updatedAt": null
+  },
+  {
+    "id": "4d4cf3ee-2eb8-49fe-b850-4d61188cd42b",
+    "date": "2025-05-08",
+    "time": "13:32",
+    "weightKg": 71.0,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.899817Z",
+    "updatedAt": null
+  },
+  {
+    "id": "df8b4782-7379-4668-b549-f8af4039fb02",
+    "date": "2025-05-09",
+    "time": "13:20",
+    "weightKg": 70.35,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.899817Z",
+    "updatedAt": null
+  },
+  {
+    "id": "b397b603-7ebf-4d59-a6f4-4b30c06ffece",
+    "date": "2025-05-10",
+    "time": "16:11",
+    "weightKg": 70.35,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.899817Z",
+    "updatedAt": null
+  },
+  {
+    "id": "01a71033-f3f3-4d76-85ac-85ec656fb8fd",
+    "date": "2025-05-11",
+    "time": "14:33",
+    "weightKg": 68.85,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.899817Z",
+    "updatedAt": null
+  },
+  {
+    "id": "7211a42d-fcb4-481a-9537-6d152f3007e4",
+    "date": "2025-05-12",
+    "time": "11:22",
+    "weightKg": 69.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.899817Z",
+    "updatedAt": null
+  },
+  {
+    "id": "61b8442b-23b2-4507-bf9b-8dfded56622d",
+    "date": "2025-05-13",
+    "time": "13:50",
+    "weightKg": 69.85,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.899817Z",
+    "updatedAt": null
+  },
+  {
+    "id": "b990983b-1729-46fd-a871-a23df9101952",
+    "date": "2025-05-14",
+    "time": "14:32",
+    "weightKg": 70.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.899817Z",
+    "updatedAt": null
+  },
+  {
+    "id": "dac573fe-22d8-4fef-901f-45bd21720032",
+    "date": "2025-05-15",
+    "time": "13:42",
+    "weightKg": 70.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.900815Z",
+    "updatedAt": null
+  },
+  {
+    "id": "f2427f53-0d61-4ef1-bdf8-b7c3acdd5248",
+    "date": "2025-05-16",
+    "time": "12:45",
+    "weightKg": 70.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.900815Z",
+    "updatedAt": null
+  },
+  {
+    "id": "b823f0f4-7481-4d21-8af4-30eec8e1a67d",
+    "date": "2025-05-17",
+    "time": "17:12",
+    "weightKg": 71.55,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.900815Z",
+    "updatedAt": null
+  },
+  {
+    "id": "62ef331c-8d07-4661-ae85-ce6b206e4e17",
+    "date": "2025-05-18",
+    "time": "08:02",
+    "weightKg": 71.95,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.900815Z",
+    "updatedAt": null
+  },
+  {
+    "id": "ce5f9beb-43fa-442e-8590-82ef45b6f3db",
+    "date": "2025-05-19",
+    "time": "14:14",
+    "weightKg": 71.95,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.900815Z",
+    "updatedAt": null
+  },
+  {
+    "id": "0159901e-3911-4adb-a949-e5d08d8a0be7",
+    "date": "2025-05-20",
+    "time": "11:30",
+    "weightKg": 72.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.900815Z",
+    "updatedAt": null
+  },
+  {
+    "id": "528563a0-3c00-48c3-8042-c50d54b47654",
+    "date": "2025-05-21",
+    "time": "12:55",
+    "weightKg": 71.35,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.900815Z",
+    "updatedAt": null
+  },
+  {
+    "id": "badb72bd-212e-40cd-9eb7-5da4bed25f14",
+    "date": "2025-05-22",
+    "time": "14:11",
+    "weightKg": 73.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.900815Z",
+    "updatedAt": null
+  },
+  {
+    "id": "ec390e78-20cf-4dcd-9d4e-9fa99127da14",
+    "date": "2025-05-23",
+    "time": "09:29",
+    "weightKg": 73.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.900815Z",
+    "updatedAt": null
+  },
+  {
+    "id": "33caa1cb-1cf8-47e4-bde8-4ed709000b3f",
+    "date": "2025-05-28",
+    "time": "14:06",
+    "weightKg": 73.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.900815Z",
+    "updatedAt": null
+  },
+  {
+    "id": "6c19d02d-0d74-40e1-a43a-3fbba5a5e605",
+    "date": "2025-05-29",
+    "time": "12:50",
+    "weightKg": 74.3,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.900815Z",
+    "updatedAt": null
+  },
+  {
+    "id": "0c2326a0-4464-4de4-809d-f8b696e6adde",
+    "date": "2025-05-30",
+    "time": "14:22",
+    "weightKg": 73.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.900815Z",
+    "updatedAt": null
+  },
+  {
+    "id": "7b57cf75-ed1d-49a0-b027-75e7d917eae0",
+    "date": "2025-05-31",
+    "time": "09:43",
+    "weightKg": 73.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.900815Z",
+    "updatedAt": null
+  },
+  {
+    "id": "fe14b946-e9cd-42bd-809b-9ca929fe37b6",
+    "date": "2025-06-01",
+    "time": "15:37",
+    "weightKg": 74.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.900815Z",
+    "updatedAt": null
+  },
+  {
+    "id": "dcb343d2-23f6-4304-a30c-cfe4f95f89c9",
+    "date": "2025-06-02",
+    "time": "14:10",
+    "weightKg": 73.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.901816Z",
+    "updatedAt": null
+  },
+  {
+    "id": "86eeebaf-1ff0-4bfb-881c-02c19fbe8fde",
+    "date": "2025-06-03",
+    "time": "13:48",
+    "weightKg": 73.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.901816Z",
+    "updatedAt": null
+  },
+  {
+    "id": "c9cd1cf2-83c2-4a46-8826-278bf48f864a",
+    "date": "2025-06-04",
+    "time": "14:26",
+    "weightKg": 74.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.901816Z",
+    "updatedAt": null
+  },
+  {
+    "id": "b16f3640-cddd-4431-a0c8-1cd59ea5285d",
+    "date": "2025-06-05",
+    "time": "12:32",
+    "weightKg": 74.15,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.901816Z",
+    "updatedAt": null
+  },
+  {
+    "id": "ae730193-6dcb-4d22-a86c-6f03c72f60b8",
+    "date": "2025-06-06",
+    "time": "07:56",
+    "weightKg": 73.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.901816Z",
+    "updatedAt": null
+  },
+  {
+    "id": "a82d6b85-9a08-4755-8023-d6e8da48f8aa",
+    "date": "2025-06-07",
+    "time": "14:47",
+    "weightKg": 72.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.902124Z",
+    "updatedAt": null
+  },
+  {
+    "id": "face97b2-19d5-47da-85a1-20e7100929b5",
+    "date": "2025-06-08",
+    "time": "16:02",
+    "weightKg": 73.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.902198Z",
+    "updatedAt": null
+  },
+  {
+    "id": "3a8c5b14-af88-4b6e-8dbe-95bd3487ecdb",
+    "date": "2025-06-09",
+    "time": "16:03",
+    "weightKg": 73.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.902198Z",
+    "updatedAt": null
+  },
+  {
+    "id": "8f2ad71a-8373-47e8-ae29-852bb1879b60",
+    "date": "2025-06-10",
+    "time": "09:27",
+    "weightKg": 71.6,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.902198Z",
+    "updatedAt": null
+  },
+  {
+    "id": "fc9e531c-08d7-4822-8dc8-24b2d0328841",
+    "date": "2025-06-11",
+    "time": "15:27",
+    "weightKg": 72.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.902198Z",
+    "updatedAt": null
+  },
+  {
+    "id": "a1e9c9b3-9731-4cd1-af96-ca580b51868b",
+    "date": "2025-06-12",
+    "time": "12:14",
+    "weightKg": 72.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.902198Z",
+    "updatedAt": null
+  },
+  {
+    "id": "4f151bb9-393e-4b11-8fde-025906779c09",
+    "date": "2025-06-13",
+    "time": "14:25",
+    "weightKg": 72.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.902508Z",
+    "updatedAt": null
+  },
+  {
+    "id": "a0c5c2a6-a588-4adc-9a3c-5943a75c2bb2",
+    "date": "2025-06-14",
+    "time": "17:01",
+    "weightKg": 72.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.902508Z",
+    "updatedAt": null
+  },
+  {
+    "id": "e28288ee-5fc1-46ea-87d9-8d5531431fab",
+    "date": "2025-06-15",
+    "time": "11:30",
+    "weightKg": 72.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.902508Z",
+    "updatedAt": null
+  },
+  {
+    "id": "000567df-5e40-46f9-9e1e-e732c1f97d36",
+    "date": "2025-06-16",
+    "time": "13:48",
+    "weightKg": 73.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.902508Z",
+    "updatedAt": null
+  },
+  {
+    "id": "3944eafd-d4ba-454a-991c-41808980cb8f",
+    "date": "2025-06-17",
+    "time": "10:47",
+    "weightKg": 73.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.902746Z",
+    "updatedAt": null
+  },
+  {
+    "id": "28b91fb4-3a72-437e-97ee-b35dec021a41",
+    "date": "2025-06-18",
+    "time": "14:51",
+    "weightKg": 72.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.902797Z",
+    "updatedAt": null
+  },
+  {
+    "id": "32519796-a0aa-4465-9947-c83cd95828b6",
+    "date": "2025-06-19",
+    "time": "15:55",
+    "weightKg": 73.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.902797Z",
+    "updatedAt": null
+  },
+  {
+    "id": "a6146c96-0e88-4caa-b1ce-3f48953cfd61",
+    "date": "2025-06-20",
+    "time": "11:40",
+    "weightKg": 73.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.902797Z",
+    "updatedAt": null
+  },
+  {
+    "id": "516410c6-739b-4f5b-95f7-6b8dc7de6f8c",
+    "date": "2025-06-21",
+    "time": "13:17",
+    "weightKg": 73.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.902797Z",
+    "updatedAt": null
+  },
+  {
+    "id": "9473fe7c-482f-42c2-bb34-3e829055a542",
+    "date": "2025-06-22",
+    "time": "18:13",
+    "weightKg": 72.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.902797Z",
+    "updatedAt": null
+  },
+  {
+    "id": "324d5a06-3481-4b8e-84bc-d96b2b8f4b2f",
+    "date": "2025-06-23",
+    "time": "12:15",
+    "weightKg": 73.3,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.903092Z",
+    "updatedAt": null
+  },
+  {
+    "id": "84acca77-dc6f-445d-98ee-f099412ded9e",
+    "date": "2025-06-24",
+    "time": "08:52",
+    "weightKg": 72.3,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.903152Z",
+    "updatedAt": null
+  },
+  {
+    "id": "5d4b494c-2dfa-493c-ac39-3d4cc92b4c51",
+    "date": "2025-06-25",
+    "time": "13:28",
+    "weightKg": 73.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.903152Z",
+    "updatedAt": null
+  },
+  {
+    "id": "c554a1c1-bb29-4b46-9312-555f0f18c222",
+    "date": "2025-06-26",
+    "time": "14:26",
+    "weightKg": 73.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.903152Z",
+    "updatedAt": null
+  },
+  {
+    "id": "8b0a26e2-a61b-4cd4-8fe9-985d662b6393",
+    "date": "2025-06-27",
+    "time": "09:19",
+    "weightKg": 74.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.903152Z",
+    "updatedAt": null
+  },
+  {
+    "id": "cad333da-cf9a-431a-b954-324991983ed7",
+    "date": "2025-06-28",
+    "time": "14:10",
+    "weightKg": 73.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.903152Z",
+    "updatedAt": null
+  },
+  {
+    "id": "bd54c7ed-77b7-4c20-a97b-76ee0f795f1e",
+    "date": "2025-06-29",
+    "time": "15:25",
+    "weightKg": 72.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.903152Z",
+    "updatedAt": null
+  },
+  {
+    "id": "a24fe305-e2e3-447c-9470-e447e5c7b3da",
+    "date": "2025-06-30",
+    "time": "16:52",
+    "weightKg": 73.0,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.903152Z",
+    "updatedAt": null
+  },
+  {
+    "id": "ce9184bd-8666-4da1-9117-44f0b5765281",
+    "date": "2025-07-01",
+    "time": "14:17",
+    "weightKg": 73.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.903559Z",
+    "updatedAt": null
+  },
+  {
+    "id": "7fc13361-13e7-44e2-845f-3fec53966570",
+    "date": "2025-07-02",
+    "time": "12:22",
+    "weightKg": 73.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.903612Z",
+    "updatedAt": null
+  },
+  {
+    "id": "8a23e07a-9b6a-41d3-a809-2816f92a308f",
+    "date": "2025-07-03",
+    "time": "07:24",
+    "weightKg": 73.0,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.903612Z",
+    "updatedAt": null
+  },
+  {
+    "id": "d0770356-3aef-4e8a-b804-9e6781ebeff7",
+    "date": "2025-07-04",
+    "time": "08:11",
+    "weightKg": 73.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.903612Z",
+    "updatedAt": null
+  },
+  {
+    "id": "29d2fbbf-4983-4360-a3c7-d4405fe39103",
+    "date": "2025-07-05",
+    "time": "14:47",
+    "weightKg": 74.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.903612Z",
+    "updatedAt": null
+  },
+  {
+    "id": "6291d2ec-1b1b-45ef-8738-42c16237f82d",
+    "date": "2025-07-06",
+    "time": "14:15",
+    "weightKg": 74.0,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.903846Z",
+    "updatedAt": null
+  },
+  {
+    "id": "7a4fa460-31b0-4e3c-b233-542f9e1d5ba7",
+    "date": "2025-07-07",
+    "time": "14:07",
+    "weightKg": 74.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.903896Z",
+    "updatedAt": null
+  },
+  {
+    "id": "ed916890-9ba4-4433-beda-2ef73de4aeb7",
+    "date": "2025-07-08",
+    "time": "04:25",
+    "weightKg": 74.0,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.903896Z",
+    "updatedAt": null
+  },
+  {
+    "id": "92da586b-4cd8-4d84-851b-54b9bc0acb65",
+    "date": "2025-07-09",
+    "time": "12:40",
+    "weightKg": 74.0,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.903896Z",
+    "updatedAt": null
+  },
+  {
+    "id": "0b79d28a-1f57-47bc-8fb5-53676386c46a",
+    "date": "2025-07-10",
+    "time": "12:06",
+    "weightKg": 74.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.903896Z",
+    "updatedAt": null
+  },
+  {
+    "id": "8f6d8426-0867-47de-bebd-8288e010b7ba",
+    "date": "2025-07-11",
+    "time": "10:18",
+    "weightKg": 74.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.904186Z",
+    "updatedAt": null
+  },
+  {
+    "id": "95f3fed6-8b39-477b-abda-221bc911a305",
+    "date": "2025-07-12",
+    "time": "11:12",
+    "weightKg": 72.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.904242Z",
+    "updatedAt": null
+  },
+  {
+    "id": "0466462c-b3ef-438d-a7a1-e30ff6262a8e",
+    "date": "2025-07-13",
+    "time": "15:11",
+    "weightKg": 73.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.904242Z",
+    "updatedAt": null
+  },
+  {
+    "id": "3d709247-2eb5-4a45-a647-684df8a548ea",
+    "date": "2025-07-14",
+    "time": "15:25",
+    "weightKg": 74.0,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.904242Z",
+    "updatedAt": null
+  },
+  {
+    "id": "56665f48-ed07-482a-a543-9d627a69b79f",
+    "date": "2025-07-15",
+    "time": "14:35",
+    "weightKg": 74.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.904242Z",
+    "updatedAt": null
+  },
+  {
+    "id": "b4b60fe6-d6e9-44c8-b153-b040d7733bb3",
+    "date": "2025-07-16",
+    "time": "13:52",
+    "weightKg": 74.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.904481Z",
+    "updatedAt": null
+  },
+  {
+    "id": "2abd8edb-4a44-4389-8a5e-1d940caf751a",
+    "date": "2025-07-17",
+    "time": "12:40",
+    "weightKg": 75.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.904527Z",
+    "updatedAt": null
+  },
+  {
+    "id": "a1101662-852d-427f-b0d1-9026ebd69537",
+    "date": "2025-07-18",
+    "time": "09:55",
+    "weightKg": 75.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.904527Z",
+    "updatedAt": null
+  },
+  {
+    "id": "d91d55d8-eed4-4046-98ab-47075e9d2d30",
+    "date": "2025-07-19",
+    "time": "13:52",
+    "weightKg": 74.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.904527Z",
+    "updatedAt": null
+  },
+  {
+    "id": "529269d1-ac25-49d1-9df6-955df2003592",
+    "date": "2025-07-20",
+    "time": "11:23",
+    "weightKg": 75.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.904527Z",
+    "updatedAt": null
+  },
+  {
+    "id": "b4b191ff-069f-4ff9-b47d-222d92de3359",
+    "date": "2025-07-21",
+    "time": "13:51",
+    "weightKg": 75.3,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.904527Z",
+    "updatedAt": null
+  },
+  {
+    "id": "02713144-492f-4299-b1db-865731d2493c",
+    "date": "2025-07-22",
+    "time": "13:55",
+    "weightKg": 74.05,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.904527Z",
+    "updatedAt": null
+  },
+  {
+    "id": "79a5cae8-1ff3-4cb5-a2d5-303fa9532ce4",
+    "date": "2025-07-23",
+    "time": "14:53",
+    "weightKg": 75.3,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.904527Z",
+    "updatedAt": null
+  },
+  {
+    "id": "107865da-68ed-4aec-9b51-08863086c334",
+    "date": "2025-07-24",
+    "time": "06:52",
+    "weightKg": 75.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.904999Z",
+    "updatedAt": null
+  },
+  {
+    "id": "3da7f048-3dce-4e51-9bbc-48f59449aa0a",
+    "date": "2025-07-25",
+    "time": "11:25",
+    "weightKg": 75.3,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.904999Z",
+    "updatedAt": null
+  },
+  {
+    "id": "b747625d-c060-47f8-b0fb-8f05882018ac",
+    "date": "2025-07-26",
+    "time": "15:10",
+    "weightKg": 76.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.904999Z",
+    "updatedAt": null
+  },
+  {
+    "id": "8ca3cf1a-cc4d-4332-94dd-c41361e4a7c9",
+    "date": "2025-07-27",
+    "time": "14:23",
+    "weightKg": 75.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.904999Z",
+    "updatedAt": null
+  },
+  {
+    "id": "bd0518d0-192f-46a3-9593-73606c5eba0f",
+    "date": "2025-07-28",
+    "time": "12:13",
+    "weightKg": 75.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.905263Z",
+    "updatedAt": null
+  },
+  {
+    "id": "77a59356-67f7-4b4f-9e14-9e4ca694a981",
+    "date": "2025-07-29",
+    "time": "09:27",
+    "weightKg": 75.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.905315Z",
+    "updatedAt": null
+  },
+  {
+    "id": "4eb22d74-3092-4457-be13-b85f5277360e",
+    "date": "2025-07-30",
+    "time": "14:04",
+    "weightKg": 76.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.905315Z",
+    "updatedAt": null
+  },
+  {
+    "id": "0edb7f22-4b41-4b44-8969-bb98a88667d1",
+    "date": "2025-07-31",
+    "time": "12:18",
+    "weightKg": 76.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.905315Z",
+    "updatedAt": null
+  },
+  {
+    "id": "db239d57-df78-4aa7-985a-d6a05da8ff9b",
+    "date": "2025-08-01",
+    "time": "09:57",
+    "weightKg": 76.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.905315Z",
+    "updatedAt": null
+  },
+  {
+    "id": "232de4fb-f739-413f-ad85-2edebd55cff8",
+    "date": "2025-08-02",
+    "time": "12:01",
+    "weightKg": 74.6,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.905550Z",
+    "updatedAt": null
+  },
+  {
+    "id": "62511247-aad0-4788-b627-70321834eb98",
+    "date": "2025-08-03",
+    "time": "14:11",
+    "weightKg": 75.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.905612Z",
+    "updatedAt": null
+  },
+  {
+    "id": "e3494ddd-0da1-4e83-a436-58b0890eeb9c",
+    "date": "2025-08-04",
+    "time": "11:40",
+    "weightKg": 75.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.905612Z",
+    "updatedAt": null
+  },
+  {
+    "id": "cfb290d8-2b93-446e-bea8-6cde4d3fb8d5",
+    "date": "2025-08-05",
+    "time": "07:18",
+    "weightKg": 75.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.905612Z",
+    "updatedAt": null
+  },
+  {
+    "id": "070ac39b-dd4b-48b2-86ec-7d6061bdec12",
+    "date": "2025-08-06",
+    "time": "13:55",
+    "weightKg": 74.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.905612Z",
+    "updatedAt": null
+  },
+  {
+    "id": "c1d24189-8e94-4f6b-bef9-864ed1867065",
+    "date": "2025-08-07",
+    "time": "16:00",
+    "weightKg": 74.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.905877Z",
+    "updatedAt": null
+  },
+  {
+    "id": "25ff9c14-4778-44a1-86fc-5e790626d3b2",
+    "date": "2025-08-08",
+    "time": "13:23",
+    "weightKg": 75.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.905928Z",
+    "updatedAt": null
+  },
+  {
+    "id": "35a173e4-9546-4064-a44a-9a290db75852",
+    "date": "2025-08-09",
+    "time": "15:13",
+    "weightKg": 75.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.905928Z",
+    "updatedAt": null
+  },
+  {
+    "id": "62c5a5df-8f3b-416e-945e-d3b3199104f3",
+    "date": "2025-08-10",
+    "time": "15:00",
+    "weightKg": 75.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.905928Z",
+    "updatedAt": null
+  },
+  {
+    "id": "58ae7e3d-58c6-4fb2-a390-ac3bbbcefdc2",
+    "date": "2025-08-11",
+    "time": "15:02",
+    "weightKg": 75.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.905928Z",
+    "updatedAt": null
+  },
+  {
+    "id": "d3251e9a-f3a2-463a-a0ec-55f5a4baacd6",
+    "date": "2025-08-12",
+    "time": "09:32",
+    "weightKg": 75.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.905928Z",
+    "updatedAt": null
+  },
+  {
+    "id": "ca644ede-5b78-445b-b1f2-beffa8380e27",
+    "date": "2025-08-13",
+    "time": "09:39",
+    "weightKg": 75.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.905928Z",
+    "updatedAt": null
+  },
+  {
+    "id": "59242647-b429-4cf8-aa0c-ce79fa784557",
+    "date": "2025-08-14",
+    "time": "05:36",
+    "weightKg": 75.6,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.905928Z",
+    "updatedAt": null
+  },
+  {
+    "id": "576fe611-6593-4deb-b6e9-0b1548768c24",
+    "date": "2025-08-15",
+    "time": "13:41",
+    "weightKg": 75.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.906296Z",
+    "updatedAt": null
+  },
+  {
+    "id": "a7f7053f-ff75-4fd4-99c3-09537439c293",
+    "date": "2025-08-16",
+    "time": "14:17",
+    "weightKg": 75.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.906359Z",
+    "updatedAt": null
+  },
+  {
+    "id": "43c52018-7ccb-4527-92c0-2e268bbf8bba",
+    "date": "2025-08-17",
+    "time": "14:49",
+    "weightKg": 75.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.906359Z",
+    "updatedAt": null
+  },
+  {
+    "id": "f16efa3f-18e2-4577-96ff-f7a0fad757ce",
+    "date": "2025-08-18",
+    "time": "14:38",
+    "weightKg": 76.3,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.906359Z",
+    "updatedAt": null
+  },
+  {
+    "id": "9333d915-724c-4663-a91f-5a3d5c03e822",
+    "date": "2025-08-19",
+    "time": "13:29",
+    "weightKg": 74.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.906359Z",
+    "updatedAt": null
+  },
+  {
+    "id": "86cd309d-71a9-4b0e-8bff-611b97f00d34",
+    "date": "2025-08-20",
+    "time": "14:36",
+    "weightKg": 76.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.906359Z",
+    "updatedAt": null
+  },
+  {
+    "id": "0510ba0b-4778-49be-86b4-33b5e1791d49",
+    "date": "2025-08-21",
+    "time": "14:41",
+    "weightKg": 75.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.906664Z",
+    "updatedAt": null
+  },
+  {
+    "id": "35c1775f-f1e8-43f3-acea-16093181a905",
+    "date": "2025-08-22",
+    "time": "14:37",
+    "weightKg": 75.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.906711Z",
+    "updatedAt": null
+  },
+  {
+    "id": "bca8682c-754c-4b71-b2fa-43a7d7c97b18",
+    "date": "2025-08-23",
+    "time": "16:10",
+    "weightKg": 76.3,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.906711Z",
+    "updatedAt": null
+  },
+  {
+    "id": "f3fd513d-cd83-4648-9b46-a32abb1ac40e",
+    "date": "2025-08-24",
+    "time": "08:56",
+    "weightKg": 76.3,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.906711Z",
+    "updatedAt": null
+  },
+  {
+    "id": "3ff111df-9a6c-4f50-b045-9b79170feb70",
+    "date": "2025-08-25",
+    "time": "14:48",
+    "weightKg": 74.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.906910Z",
+    "updatedAt": null
+  },
+  {
+    "id": "35cbae07-9617-42d9-b3bc-afa2e827edd1",
+    "date": "2025-08-26",
+    "time": "14:22",
+    "weightKg": 74.6,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.906968Z",
+    "updatedAt": null
+  },
+  {
+    "id": "c2e22239-591b-487e-b2af-44ea3de82424",
+    "date": "2025-08-27",
+    "time": "13:40",
+    "weightKg": 76.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.906968Z",
+    "updatedAt": null
+  },
+  {
+    "id": "b1ad0e90-001c-4aa4-ba9b-bf5bf0b93b60",
+    "date": "2025-08-28",
+    "time": "14:21",
+    "weightKg": 75.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.906968Z",
+    "updatedAt": null
+  },
+  {
+    "id": "f8374415-84b0-4726-b915-04880e05f4b0",
+    "date": "2025-08-29",
+    "time": "12:18",
+    "weightKg": 75.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.907176Z",
+    "updatedAt": null
+  },
+  {
+    "id": "414dc1d8-8067-471f-974d-3951a0baf8b4",
+    "date": "2025-08-30",
+    "time": "14:27",
+    "weightKg": 76.3,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.907243Z",
+    "updatedAt": null
+  },
+  {
+    "id": "1e66cf33-ff67-4b44-a827-ef8daca6697e",
+    "date": "2025-08-31",
+    "time": "08:17",
+    "weightKg": 76.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.907243Z",
+    "updatedAt": null
+  },
+  {
+    "id": "813fd01e-dc3e-4943-b10b-fa9ff8a52b61",
+    "date": "2025-09-01",
+    "time": "18:49",
+    "weightKg": 76.3,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.907243Z",
+    "updatedAt": null
+  },
+  {
+    "id": "c7ed2964-9216-4349-b937-2dc8ea1c8e4a",
+    "date": "2025-09-02",
+    "time": "13:26",
+    "weightKg": 76.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.907243Z",
+    "updatedAt": null
+  },
+  {
+    "id": "5c8288d2-1b09-4ea2-a6ce-8b5d1a19e3d6",
+    "date": "2025-09-03",
+    "time": "13:48",
+    "weightKg": 77.3,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.907243Z",
+    "updatedAt": null
+  },
+  {
+    "id": "1aaa48f2-163c-4bf6-8a6c-54a54c83f771",
+    "date": "2025-09-04",
+    "time": "07:17",
+    "weightKg": 77.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.907243Z",
+    "updatedAt": null
+  },
+  {
+    "id": "05d0ae4a-6133-4563-bca4-e2c60a7a5637",
+    "date": "2025-09-05",
+    "time": "13:15",
+    "weightKg": 77.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.907591Z",
+    "updatedAt": null
+  },
+  {
+    "id": "438ec40c-a1d2-460f-8932-08c6347059c6",
+    "date": "2025-09-06",
+    "time": "17:43",
+    "weightKg": 77.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.907658Z",
+    "updatedAt": null
+  },
+  {
+    "id": "5c1fe644-9e53-4bb6-84f2-9b94f367fca2",
+    "date": "2025-09-07",
+    "time": "15:26",
+    "weightKg": 77.3,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.907658Z",
+    "updatedAt": null
+  },
+  {
+    "id": "660d0264-ba4a-44a3-8d17-9acae9042c28",
+    "date": "2025-09-08",
+    "time": "13:41",
+    "weightKg": 76.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.907658Z",
+    "updatedAt": null
+  },
+  {
+    "id": "433a95fa-60c2-45f5-900b-4b9627587672",
+    "date": "2025-09-09",
+    "time": "07:24",
+    "weightKg": 76.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.907658Z",
+    "updatedAt": null
+  },
+  {
+    "id": "c2156bff-6915-41a4-bf65-30d35eab5ebc",
+    "date": "2025-09-10",
+    "time": "13:13",
+    "weightKg": 76.3,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.907925Z",
+    "updatedAt": null
+  },
+  {
+    "id": "46aa908b-e0ce-4d41-ac5c-e447ac44019e",
+    "date": "2025-09-11",
+    "time": "12:50",
+    "weightKg": 77.6,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.907972Z",
+    "updatedAt": null
+  },
+  {
+    "id": "bf5dfe79-bf9b-4394-bf3c-df4d029cc8c7",
+    "date": "2025-09-12",
+    "time": "13:38",
+    "weightKg": 77.6,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.907972Z",
+    "updatedAt": null
+  },
+  {
+    "id": "c4435dc6-88fb-4bc2-8712-b3556155198d",
+    "date": "2025-09-13",
+    "time": "14:20",
+    "weightKg": 77.6,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.907972Z",
+    "updatedAt": null
+  },
+  {
+    "id": "b89c826e-2283-45dd-9172-dd8f7708bf8c",
+    "date": "2025-09-14",
+    "time": "15:19",
+    "weightKg": 77.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.907972Z",
+    "updatedAt": null
+  },
+  {
+    "id": "0ff30d8f-d0f9-42f6-911b-2c53e830cf0f",
+    "date": "2025-09-15",
+    "time": "13:39",
+    "weightKg": 78.3,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.908223Z",
+    "updatedAt": null
+  },
+  {
+    "id": "c514616c-94c9-413f-9ae5-d0ae98d996fc",
+    "date": "2025-09-16",
+    "time": "14:20",
+    "weightKg": 77.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.908277Z",
+    "updatedAt": null
+  },
+  {
+    "id": "c6255e95-0f1c-459e-8cfc-1a7b359ebc45",
+    "date": "2025-09-17",
+    "time": "14:43",
+    "weightKg": 76.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.908277Z",
+    "updatedAt": null
+  },
+  {
+    "id": "ebb10051-8b47-4f96-8d0c-e5fa63d1e480",
+    "date": "2025-09-18",
+    "time": "15:14",
+    "weightKg": 77.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.908277Z",
+    "updatedAt": null
+  },
+  {
+    "id": "26b2c1c8-78ab-4f61-9bd1-b198159b0629",
+    "date": "2025-09-19",
+    "time": "13:20",
+    "weightKg": 77.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.908277Z",
+    "updatedAt": null
+  },
+  {
+    "id": "60036ff1-ebb1-46ce-adbb-f40082c69239",
+    "date": "2025-09-20",
+    "time": "16:30",
+    "weightKg": 77.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.908277Z",
+    "updatedAt": null
+  },
+  {
+    "id": "cd7ee93e-8124-40cc-ad1b-893fa422c659",
+    "date": "2025-09-21",
+    "time": "17:04",
+    "weightKg": 77.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.908554Z",
+    "updatedAt": null
+  },
+  {
+    "id": "a00d8cb1-6af5-491e-a8d5-cea52ec831e3",
+    "date": "2025-09-22",
+    "time": "13:29",
+    "weightKg": 77.6,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.908606Z",
+    "updatedAt": null
+  },
+  {
+    "id": "0db2d942-4517-443c-8a6e-44da20ba7672",
+    "date": "2025-09-23",
+    "time": "06:59",
+    "weightKg": 77.6,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.908606Z",
+    "updatedAt": null
+  },
+  {
+    "id": "5cbea485-d141-4993-9abf-834d8436a92b",
+    "date": "2025-09-24",
+    "time": "11:17",
+    "weightKg": 78.0,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.908606Z",
+    "updatedAt": null
+  },
+  {
+    "id": "771e86c0-b6d6-44bb-b1ca-9b9ed88030cb",
+    "date": "2025-09-25",
+    "time": "13:02",
+    "weightKg": 78.0,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.908606Z",
+    "updatedAt": null
+  },
+  {
+    "id": "2965378f-5f93-4d29-991c-c725a9137490",
+    "date": "2025-09-26",
+    "time": "14:18",
+    "weightKg": 77.6,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.908606Z",
+    "updatedAt": null
+  },
+  {
+    "id": "57e81550-4478-412f-acbb-1fec664c4be5",
+    "date": "2025-09-27",
+    "time": "16:40",
+    "weightKg": 76.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.908949Z",
+    "updatedAt": null
+  },
+  {
+    "id": "785a3bab-dcdb-4d9f-909e-a5183ccf178d",
+    "date": "2025-09-28",
+    "time": "16:10",
+    "weightKg": 77.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.909004Z",
+    "updatedAt": null
+  },
+  {
+    "id": "5617281b-6279-4a56-85a5-0594e4d3f636",
+    "date": "2025-09-29",
+    "time": "13:53",
+    "weightKg": 76.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.909004Z",
+    "updatedAt": null
+  },
+  {
+    "id": "d055e38d-a241-45e4-99d0-ce189619903a",
+    "date": "2025-09-30",
+    "time": "12:44",
+    "weightKg": 76.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.909004Z",
+    "updatedAt": null
+  },
+  {
+    "id": "9b37aa4d-4ba9-467d-90d7-42c7eaca47aa",
+    "date": "2025-10-01",
+    "time": "10:52",
+    "weightKg": 77.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.909004Z",
+    "updatedAt": null
+  },
+  {
+    "id": "b405862c-cb3e-4557-870a-ce6cfd7abf42",
+    "date": "2025-10-02",
+    "time": "06:57",
+    "weightKg": 78.15,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.909004Z",
+    "updatedAt": null
+  },
+  {
+    "id": "7454f013-8bbe-48b3-91fc-4fd121a81f8b",
+    "date": "2025-10-03",
+    "time": "11:30",
+    "weightKg": 78.15,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.909312Z",
+    "updatedAt": null
+  },
+  {
+    "id": "af8c9916-40a7-4504-967b-f77c2b3d8fed",
+    "date": "2025-10-04",
+    "time": "15:28",
+    "weightKg": 77.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.909312Z",
+    "updatedAt": null
+  },
+  {
+    "id": "2f86f179-54b3-4d9a-aa14-5cd62a4c7b6f",
+    "date": "2025-10-05",
+    "time": "17:30",
+    "weightKg": 77.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.909312Z",
+    "updatedAt": null
+  },
+  {
+    "id": "640678bf-c45f-449a-a590-8e1a64bd9d7f",
+    "date": "2025-10-06",
+    "time": "14:58",
+    "weightKg": 77.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.909312Z",
+    "updatedAt": null
+  },
+  {
+    "id": "c6ec7636-f387-482f-8bce-e18b97423e99",
+    "date": "2025-10-07",
+    "time": "13:09",
+    "weightKg": 77.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.909549Z",
+    "updatedAt": null
+  },
+  {
+    "id": "78519957-c12c-4fe7-b718-10ca2a46b851",
+    "date": "2025-10-08",
+    "time": "15:39",
+    "weightKg": 77.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.909608Z",
+    "updatedAt": null
+  },
+  {
+    "id": "35845485-73cc-4a10-9f07-0a02500475a5",
+    "date": "2025-10-09",
+    "time": "14:43",
+    "weightKg": 78.3,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.909608Z",
+    "updatedAt": null
+  },
+  {
+    "id": "3813913e-aeb6-4f01-810e-ececa62d965c",
+    "date": "2025-10-10",
+    "time": "15:40",
+    "weightKg": 78.0,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.909608Z",
+    "updatedAt": null
+  },
+  {
+    "id": "4ed4e2ab-5a34-4ab9-9338-f3552838088c",
+    "date": "2025-10-11",
+    "time": "18:33",
+    "weightKg": 78.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.909608Z",
+    "updatedAt": null
+  },
+  {
+    "id": "ec2dbf93-2f31-4257-be0c-8375e0340e80",
+    "date": "2025-10-12",
+    "time": "17:21",
+    "weightKg": 78.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.909840Z",
+    "updatedAt": null
+  },
+  {
+    "id": "e2217708-97dd-4402-b34c-7d6a77e17912",
+    "date": "2025-10-13",
+    "time": "17:55",
+    "weightKg": 78.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.909887Z",
+    "updatedAt": null
+  },
+  {
+    "id": "51960f50-4dd1-4811-a750-53300eab9e91",
+    "date": "2025-10-14",
+    "time": "13:08",
+    "weightKg": 78.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.909887Z",
+    "updatedAt": null
+  },
+  {
+    "id": "3e040e9a-d51e-4fd3-810b-2043b360b837",
+    "date": "2025-10-15",
+    "time": "14:30",
+    "weightKg": 78.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.909887Z",
+    "updatedAt": null
+  },
+  {
+    "id": "b6b98979-009d-42fe-999c-74428a052d9d",
+    "date": "2025-10-16",
+    "time": "12:54",
+    "weightKg": 79.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.909887Z",
+    "updatedAt": null
+  },
+  {
+    "id": "5b782cd6-23f4-4189-a07b-c0ec6090d890",
+    "date": "2025-10-17",
+    "time": "15:09",
+    "weightKg": 78.3,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.909887Z",
+    "updatedAt": null
+  },
+  {
+    "id": "c2718e4f-c596-434a-a1fa-00104a8b84a2",
+    "date": "2025-10-18",
+    "time": "10:47",
+    "weightKg": 79.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.909887Z",
+    "updatedAt": null
+  },
+  {
+    "id": "58046671-3179-432b-a0c1-9f13a639dcc4",
+    "date": "2025-10-19",
+    "time": "15:50",
+    "weightKg": 78.3,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.910242Z",
+    "updatedAt": null
+  },
+  {
+    "id": "73710fff-9815-4047-9a9e-071677815d13",
+    "date": "2025-10-20",
+    "time": "18:48",
+    "weightKg": 77.0,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.910296Z",
+    "updatedAt": null
+  },
+  {
+    "id": "a78f5c1f-6000-43e1-967e-1528c9378aec",
+    "date": "2025-10-21",
+    "time": "07:47",
+    "weightKg": 77.3,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.910296Z",
+    "updatedAt": null
+  },
+  {
+    "id": "33edc8ab-93a9-46f6-99e2-30ba4b8c6d8e",
+    "date": "2025-10-22",
+    "time": "09:56",
+    "weightKg": 77.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.910296Z",
+    "updatedAt": null
+  },
+  {
+    "id": "2a7f5d92-e83c-4aa6-ac3e-701bc1d2a572",
+    "date": "2025-10-23",
+    "time": "13:53",
+    "weightKg": 78.3,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.910296Z",
+    "updatedAt": null
+  },
+  {
+    "id": "29002558-a137-4656-8ba1-2a15ab08d595",
+    "date": "2025-10-24",
+    "time": "14:53",
+    "weightKg": 79.3,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.910541Z",
+    "updatedAt": null
+  },
+  {
+    "id": "9f444a7f-6cdc-4373-91c8-3769f21caf81",
+    "date": "2025-10-25",
+    "time": "15:47",
+    "weightKg": 78.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.910596Z",
+    "updatedAt": null
+  },
+  {
+    "id": "74816d72-1be5-4139-96b6-4398c95a763e",
+    "date": "2025-10-26",
+    "time": "15:41",
+    "weightKg": 78.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.910596Z",
+    "updatedAt": null
+  },
+  {
+    "id": "01eb0bfc-0553-4f99-a9f3-75fe82462fc2",
+    "date": "2025-10-27",
+    "time": "12:41",
+    "weightKg": 78.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.910596Z",
+    "updatedAt": null
+  },
+  {
+    "id": "fbd58d71-6379-4cc9-848b-4b0d66c5679e",
+    "date": "2025-10-28",
+    "time": "17:23",
+    "weightKg": 78.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.910596Z",
+    "updatedAt": null
+  },
+  {
+    "id": "68bdc967-17d8-48c3-9651-76e070b0a7e5",
+    "date": "2025-10-29",
+    "time": "07:48",
+    "weightKg": 78.3,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.910596Z",
+    "updatedAt": null
+  },
+  {
+    "id": "2b819d9c-8c4f-4dd3-9a35-94fccf172f17",
+    "date": "2025-10-30",
+    "time": "11:31",
+    "weightKg": 77.0,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.910596Z",
+    "updatedAt": null
+  },
+  {
+    "id": "185e75df-04ed-494c-a47f-4b9f4563fc11",
+    "date": "2025-10-31",
+    "time": "15:10",
+    "weightKg": 77.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.910596Z",
+    "updatedAt": null
+  },
+  {
+    "id": "55fdb565-239b-49d9-a030-c4ebe653f637",
+    "date": "2025-11-01",
+    "time": "17:36",
+    "weightKg": 77.6,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.910596Z",
+    "updatedAt": null
+  },
+  {
+    "id": "bc954cbc-c57b-4233-b75c-e7c200ff3c88",
+    "date": "2025-11-02",
+    "time": "15:29",
+    "weightKg": 78.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.910596Z",
+    "updatedAt": null
+  },
+  {
+    "id": "b47304bd-01ce-4980-9744-3dc8da537c1c",
+    "date": "2025-11-03",
+    "time": "13:59",
+    "weightKg": 78.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.910596Z",
+    "updatedAt": null
+  },
+  {
+    "id": "a7d6cf76-92d9-4668-b00c-42856d3d57d6",
+    "date": "2025-11-04",
+    "time": "13:02",
+    "weightKg": 76.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.910596Z",
+    "updatedAt": null
+  },
+  {
+    "id": "a029c695-63c8-4151-88a2-f332b4002f61",
+    "date": "2025-11-05",
+    "time": "11:53",
+    "weightKg": 75.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.911248Z",
+    "updatedAt": null
+  },
+  {
+    "id": "c6965f12-89a5-47ad-9af0-3d7f9dc07169",
+    "date": "2025-11-06",
+    "time": "04:14",
+    "weightKg": 74.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.911305Z",
+    "updatedAt": null
+  },
+  {
+    "id": "eebf46bf-18c2-4d0a-81d3-81883b31a266",
+    "date": "2025-11-07",
+    "time": "12:18",
+    "weightKg": 76.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.911305Z",
+    "updatedAt": null
+  },
+  {
+    "id": "836a6c78-9750-4c14-aae5-c83449fc3db8",
+    "date": "2025-11-08",
+    "time": "13:45",
+    "weightKg": 76.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.911305Z",
+    "updatedAt": null
+  },
+  {
+    "id": "971eb563-4d75-4308-9cf2-14cafe205bb7",
+    "date": "2025-11-09",
+    "time": "14:19",
+    "weightKg": 76.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.911305Z",
+    "updatedAt": null
+  },
+  {
+    "id": "ef6101e8-062c-4123-a404-827a4c77b9fd",
+    "date": "2025-11-10",
+    "time": "16:58",
+    "weightKg": 76.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.911544Z",
+    "updatedAt": null
+  },
+  {
+    "id": "6e6cbaa6-2c2e-417e-b2cf-6138d24f3cab",
+    "date": "2025-11-11",
+    "time": "15:26",
+    "weightKg": 76.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.911590Z",
+    "updatedAt": null
+  },
+  {
+    "id": "1e0fe5d5-9102-465f-8692-deee714ef2f8",
+    "date": "2025-11-12",
+    "time": "08:12",
+    "weightKg": 76.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.911590Z",
+    "updatedAt": null
+  },
+  {
+    "id": "1e37217a-7756-4faa-a6fb-8cdc54689337",
+    "date": "2025-11-13",
+    "time": "14:19",
+    "weightKg": 76.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.911590Z",
+    "updatedAt": null
+  },
+  {
+    "id": "b8a40f1b-a9fc-487f-8f93-c9659a0ce831",
+    "date": "2025-11-14",
+    "time": "15:21",
+    "weightKg": 76.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.911590Z",
+    "updatedAt": null
+  },
+  {
+    "id": "446dd82a-570a-4fc7-95cd-155fdb6aed8e",
+    "date": "2025-11-15",
+    "time": "15:50",
+    "weightKg": 77.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.911590Z",
+    "updatedAt": null
+  },
+  {
+    "id": "c8e73660-ad98-4699-a9da-4762ef47db82",
+    "date": "2025-11-16",
+    "time": "15:21",
+    "weightKg": 76.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.911919Z",
+    "updatedAt": null
+  },
+  {
+    "id": "c0759053-792f-458d-b85e-10a18bad8a49",
+    "date": "2025-11-17",
+    "time": "07:14",
+    "weightKg": 76.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.911979Z",
+    "updatedAt": null
+  },
+  {
+    "id": "8d9831ef-7da6-42a9-b1e5-c3c34059cf67",
+    "date": "2025-11-18",
+    "time": "12:17",
+    "weightKg": 76.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.911979Z",
+    "updatedAt": null
+  },
+  {
+    "id": "dbcdab87-45a2-4dc0-aa70-4373aa5c6073",
+    "date": "2025-11-19",
+    "time": "13:49",
+    "weightKg": 76.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.911979Z",
+    "updatedAt": null
+  },
+  {
+    "id": "2d239057-1f32-42a0-ae57-9185b8909d13",
+    "date": "2025-11-20",
+    "time": "12:01",
+    "weightKg": 77.0,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.911979Z",
+    "updatedAt": null
+  },
+  {
+    "id": "e478c146-ae60-4d52-b07d-165cbf074d7b",
+    "date": "2025-11-21",
+    "time": "07:09",
+    "weightKg": 75.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.911979Z",
+    "updatedAt": null
+  },
+  {
+    "id": "711f5899-2133-4f27-afee-078da1927fd0",
+    "date": "2025-11-22",
+    "time": "14:03",
+    "weightKg": 76.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.912276Z",
+    "updatedAt": null
+  },
+  {
+    "id": "837f9fbb-7cab-44a1-b77e-fc29066f5add",
+    "date": "2025-11-23",
+    "time": "16:30",
+    "weightKg": 76.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.912329Z",
+    "updatedAt": null
+  },
+  {
+    "id": "a6bc6318-b059-4feb-b3a5-cdcc2ea790df",
+    "date": "2025-11-24",
+    "time": "13:08",
+    "weightKg": 76.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.912329Z",
+    "updatedAt": null
+  },
+  {
+    "id": "7d7b5869-7895-447b-994a-c982bc4e09b5",
+    "date": "2025-11-25",
+    "time": "14:33",
+    "weightKg": 76.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.912329Z",
+    "updatedAt": null
+  },
+  {
+    "id": "177efac4-f5fa-4939-98e0-33c7be516a7c",
+    "date": "2025-11-26",
+    "time": "15:07",
+    "weightKg": 75.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.912329Z",
+    "updatedAt": null
+  },
+  {
+    "id": "b2d15a51-42e3-493c-b19e-05fba262ab67",
+    "date": "2025-11-27",
+    "time": "06:12",
+    "weightKg": 76.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.912571Z",
+    "updatedAt": null
+  },
+  {
+    "id": "dd6c7db2-3fd8-4726-bdcc-5c4d8d43942e",
+    "date": "2025-11-28",
+    "time": "08:24",
+    "weightKg": 76.6,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.912625Z",
+    "updatedAt": null
+  },
+  {
+    "id": "ecba6d84-546f-4a39-a7fc-f0c6e14e4d1c",
+    "date": "2025-11-29",
+    "time": "15:40",
+    "weightKg": 76.3,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.912625Z",
+    "updatedAt": null
+  },
+  {
+    "id": "3abc4aae-8771-4a0c-b2b4-e332ee538efc",
+    "date": "2025-11-30",
+    "time": "13:48",
+    "weightKg": 76.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.912625Z",
+    "updatedAt": null
+  },
+  {
+    "id": "ee857b10-5629-46b9-906d-15c3d648d385",
+    "date": "2025-12-01",
+    "time": "07:48",
+    "weightKg": 76.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.912625Z",
+    "updatedAt": null
+  },
+  {
+    "id": "1490261b-afc4-48f8-8f0e-6c087afdb378",
+    "date": "2025-12-02",
+    "time": "10:55",
+    "weightKg": 76.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.912625Z",
+    "updatedAt": null
+  },
+  {
+    "id": "7b035881-5c8c-46fb-9ada-b7fc95d93676",
+    "date": "2025-12-03",
+    "time": "13:46",
+    "weightKg": 76.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.912933Z",
+    "updatedAt": null
+  },
+  {
+    "id": "011b5018-00ba-4857-b764-4111d018b035",
+    "date": "2025-12-04",
+    "time": "14:43",
+    "weightKg": 76.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.912986Z",
+    "updatedAt": null
+  },
+  {
+    "id": "7a17f232-9769-4247-a506-18d8c7f87078",
+    "date": "2025-12-05",
+    "time": "15:33",
+    "weightKg": 77.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.912986Z",
+    "updatedAt": null
+  },
+  {
+    "id": "efd24113-ebb7-47ab-a0d1-51b8d9b27a76",
+    "date": "2025-12-06",
+    "time": "16:10",
+    "weightKg": 75.3,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.912986Z",
+    "updatedAt": null
+  },
+  {
+    "id": "ed51b404-0656-4874-9ef7-36c4d0777658",
+    "date": "2025-12-07",
+    "time": "11:26",
+    "weightKg": 74.6,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.912986Z",
+    "updatedAt": null
+  },
+  {
+    "id": "57a572fb-0632-4e71-8253-0494ac52e367",
+    "date": "2025-12-08",
+    "time": "08:53",
+    "weightKg": 75.0,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.912986Z",
+    "updatedAt": null
+  },
+  {
+    "id": "9825db59-6d34-40e7-942f-c7b2e964bbf7",
+    "date": "2025-12-09",
+    "time": "08:53",
+    "weightKg": 75.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.912986Z",
+    "updatedAt": null
+  },
+  {
+    "id": "6b0ca879-c514-464b-996a-8ba2dc5bf364",
+    "date": "2025-12-10",
+    "time": "11:22",
+    "weightKg": 75.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.912986Z",
+    "updatedAt": null
+  },
+  {
+    "id": "3bbb63bb-79a3-40af-af7e-92baabf0558b",
+    "date": "2025-12-11",
+    "time": "12:37",
+    "weightKg": 76.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.912986Z",
+    "updatedAt": null
+  },
+  {
+    "id": "d56a46c4-629a-436b-a494-c1837ae39ad2",
+    "date": "2025-12-12",
+    "time": "14:25",
+    "weightKg": 76.0,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.912986Z",
+    "updatedAt": null
+  },
+  {
+    "id": "9abe58ce-ee79-416e-bfdb-d6f6bf27f021",
+    "date": "2025-12-13",
+    "time": "06:25",
+    "weightKg": 76.0,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.912986Z",
+    "updatedAt": null
+  },
+  {
+    "id": "d611ab80-0b43-4dd6-9bd7-94efa12c9307",
+    "date": "2025-12-14",
+    "time": "12:47",
+    "weightKg": 74.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.912986Z",
+    "updatedAt": null
+  },
+  {
+    "id": "cee3aa02-92f8-451b-a2d3-0dadabb4b65d",
+    "date": "2025-12-15",
+    "time": "13:48",
+    "weightKg": 74.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.912986Z",
+    "updatedAt": null
+  },
+  {
+    "id": "e5ab8339-9180-49da-9898-0d00b886fa6e",
+    "date": "2025-12-16",
+    "time": "14:04",
+    "weightKg": 75.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.912986Z",
+    "updatedAt": null
+  },
+  {
+    "id": "0b36e140-c207-4f50-a1a3-d6ba680bcb9c",
+    "date": "2025-12-17",
+    "time": "15:41",
+    "weightKg": 74.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.912986Z",
+    "updatedAt": null
+  },
+  {
+    "id": "8fcac5bb-09cf-4e2a-a47d-74cd64400e1c",
+    "date": "2025-12-18",
+    "time": "11:30",
+    "weightKg": 74.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.913920Z",
+    "updatedAt": null
+  },
+  {
+    "id": "0a4abcd2-a3d6-4cf5-8a2f-6d6b67e1ea2e",
+    "date": "2025-12-19",
+    "time": "11:40",
+    "weightKg": 75.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.913920Z",
+    "updatedAt": null
+  },
+  {
+    "id": "7c0f01fb-7078-4257-afdc-9de25a521563",
+    "date": "2025-12-20",
+    "time": "07:32",
+    "weightKg": 75.0,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.913920Z",
+    "updatedAt": null
+  },
+  {
+    "id": "06c460d8-9706-4a95-982c-cdbc67a18379",
+    "date": "2025-12-21",
+    "time": "07:45",
+    "weightKg": 75.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.913920Z",
+    "updatedAt": null
+  },
+  {
+    "id": "e4378f68-0812-45f8-8e4e-306a7329d26d",
+    "date": "2025-12-22",
+    "time": "14:52",
+    "weightKg": 75.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.914188Z",
+    "updatedAt": null
+  },
+  {
+    "id": "824d1228-c9e5-4d11-b173-6f5d858f866d",
+    "date": "2025-12-23",
+    "time": "13:02",
+    "weightKg": 74.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.914245Z",
+    "updatedAt": null
+  },
+  {
+    "id": "df54ba8d-cc18-4c71-9d5f-ba894eaccd23",
+    "date": "2025-12-24",
+    "time": "08:53",
+    "weightKg": 75.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.914245Z",
+    "updatedAt": null
+  },
+  {
+    "id": "9507e58b-bd46-4cc6-b99e-109fa459f67f",
+    "date": "2026-01-06",
+    "time": "15:48",
+    "weightKg": 77.5,
+    "notes": "new year!",
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.914245Z",
+    "updatedAt": null
+  },
+  {
+    "id": "744539a4-4658-4842-97b1-760e1012b7d1",
+    "date": "2026-01-07",
+    "time": "15:51",
+    "weightKg": 77.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.914245Z",
+    "updatedAt": null
+  },
+  {
+    "id": "74ceff1a-7219-4ed2-b456-d1ef4ed10b0c",
+    "date": "2026-01-08",
+    "time": "15:37",
+    "weightKg": 76.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.914245Z",
+    "updatedAt": null
+  },
+  {
+    "id": "d879d4ab-a84e-44aa-b8bf-47cf46d54f9f",
+    "date": "2026-01-09",
+    "time": "17:15",
+    "weightKg": 76.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.914538Z",
+    "updatedAt": null
+  },
+  {
+    "id": "86af81a8-a9ea-4160-b5c1-703af59c65d2",
+    "date": "2026-01-10",
+    "time": "16:25",
+    "weightKg": 77.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.914619Z",
+    "updatedAt": null
+  },
+  {
+    "id": "51756f3a-2384-45bd-ba55-399fd398cab5",
+    "date": "2026-01-11",
+    "time": "17:24",
+    "weightKg": 76.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.914619Z",
+    "updatedAt": null
+  },
+  {
+    "id": "370f2e25-3b6d-408b-8d4c-565c303d22bb",
+    "date": "2026-01-12",
+    "time": "11:51",
+    "weightKg": 77.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.914619Z",
+    "updatedAt": null
+  },
+  {
+    "id": "d7a406a6-2b56-4066-b00d-be5333d0322f",
+    "date": "2026-01-13",
+    "time": "14:39",
+    "weightKg": 76.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.914619Z",
+    "updatedAt": null
+  },
+  {
+    "id": "9ccb6f0b-64ad-46b5-b1f4-74bddc95f69a",
+    "date": "2026-01-14",
+    "time": "13:33",
+    "weightKg": 76.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.914619Z",
+    "updatedAt": null
+  },
+  {
+    "id": "17b2f861-6195-4fea-aa23-c02d189af573",
+    "date": "2026-01-15",
+    "time": "15:40",
+    "weightKg": 76.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.915085Z",
+    "updatedAt": null
+  },
+  {
+    "id": "1be73f39-9d6a-4e4c-bb8d-ebecec922366",
+    "date": "2026-01-16",
+    "time": "14:51",
+    "weightKg": 76.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.915179Z",
+    "updatedAt": null
+  },
+  {
+    "id": "53e062b3-8071-4b66-b1f6-27b9239eb9d0",
+    "date": "2026-01-17",
+    "time": "09:09",
+    "weightKg": 77.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.915179Z",
+    "updatedAt": null
+  },
+  {
+    "id": "d906bbd5-5b5b-49e5-b19b-d9b7c0b51468",
+    "date": "2026-01-18",
+    "time": "15:05",
+    "weightKg": 76.6,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.915179Z",
+    "updatedAt": null
+  },
+  {
+    "id": "b78b95bb-3cb7-464a-859e-dfca651d2132",
+    "date": "2026-01-19",
+    "time": "15:25",
+    "weightKg": 74.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.915417Z",
+    "updatedAt": null
+  },
+  {
+    "id": "cbc449ef-af74-435f-a0de-e74872a0079a",
+    "date": "2026-01-20",
+    "time": "13:19",
+    "weightKg": 74.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.915488Z",
+    "updatedAt": null
+  },
+  {
+    "id": "3b8f309a-bf68-484b-96f4-a6401d2bfd68",
+    "date": "2026-01-21",
+    "time": "15:55",
+    "weightKg": 74.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.915488Z",
+    "updatedAt": null
+  },
+  {
+    "id": "da26142e-df7d-4cb0-a0c7-dd1dd9e1cf8a",
+    "date": "2026-01-22",
+    "time": "16:25",
+    "weightKg": 75.3,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.915488Z",
+    "updatedAt": null
+  },
+  {
+    "id": "66e1a36e-8b89-4785-84c1-345923b01f3c",
+    "date": "2026-01-23",
+    "time": "13:50",
+    "weightKg": 75.3,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.915488Z",
+    "updatedAt": null
+  },
+  {
+    "id": "2bbbb8c8-a5c4-4dd2-a0e1-fc08435a4d24",
+    "date": "2026-01-24",
+    "time": "15:15",
+    "weightKg": 75.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.915488Z",
+    "updatedAt": null
+  },
+  {
+    "id": "9253a961-0955-44da-9287-7e259fc7f2d0",
+    "date": "2026-01-25",
+    "time": "15:25",
+    "weightKg": 75.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.915767Z",
+    "updatedAt": null
+  },
+  {
+    "id": "fa842164-cd1a-4c89-b878-930cd9b1a7a1",
+    "date": "2026-01-26",
+    "time": "15:52",
+    "weightKg": 75.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.915835Z",
+    "updatedAt": null
+  },
+  {
+    "id": "36eced6a-4d15-4b83-a475-efd8bcb4ff5a",
+    "date": "2026-01-27",
+    "time": "16:26",
+    "weightKg": 74.3,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.915835Z",
+    "updatedAt": null
+  },
+  {
+    "id": "1ce8f786-bc98-430f-9861-f6011dacc5f0",
+    "date": "2026-01-28",
+    "time": "16:08",
+    "weightKg": 75.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.915835Z",
+    "updatedAt": null
+  },
+  {
+    "id": "7e08c9f9-8ae2-4b98-a8bb-89255ce29929",
+    "date": "2026-01-29",
+    "time": "15:24",
+    "weightKg": 75.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.915835Z",
+    "updatedAt": null
+  },
+  {
+    "id": "a479ed40-99be-4efe-9b3c-2dea32524f38",
+    "date": "2026-01-30",
+    "time": "12:38",
+    "weightKg": 76.0,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.915835Z",
+    "updatedAt": null
+  },
+  {
+    "id": "e4db9ed5-d268-43c9-b5c4-46870157a123",
+    "date": "2026-01-31",
+    "time": "04:29",
+    "weightKg": 73.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.916163Z",
+    "updatedAt": null
+  },
+  {
+    "id": "2212f0f0-5fdf-44f6-9340-1ff2eb650a8e",
+    "date": "2026-02-01",
+    "time": "16:51",
+    "weightKg": 73.6,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.916199Z",
+    "updatedAt": null
+  },
+  {
+    "id": "439a1154-29e7-419f-935d-9ba98a19bf47",
+    "date": "2026-02-02",
+    "time": "14:11",
+    "weightKg": 74.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.916199Z",
+    "updatedAt": null
+  },
+  {
+    "id": "c8032ec9-5421-44cb-8535-f7d000cd2e76",
+    "date": "2026-02-03",
+    "time": "16:03",
+    "weightKg": 73.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.916199Z",
+    "updatedAt": null
+  },
+  {
+    "id": "042a120a-44f9-431c-8853-de1383ac66ca",
+    "date": "2026-02-04",
+    "time": "07:41",
+    "weightKg": 74.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.916199Z",
+    "updatedAt": null
+  },
+  {
+    "id": "6d2e4c3c-9951-4667-a42f-8f50ad4ce67d",
+    "date": "2026-02-05",
+    "time": "15:08",
+    "weightKg": 74.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.916199Z",
+    "updatedAt": null
+  },
+  {
+    "id": "c5b4f91e-5778-4b42-a722-a3675180c8ba",
+    "date": "2026-02-06",
+    "time": "09:39",
+    "weightKg": 72.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.916199Z",
+    "updatedAt": null
+  },
+  {
+    "id": "cf7e486b-7690-43cc-8a8a-9e250371e794",
+    "date": "2026-02-07",
+    "time": "12:52",
+    "weightKg": 73.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.916199Z",
+    "updatedAt": null
+  },
+  {
+    "id": "bfa0fc8a-3d19-4a3f-9790-922f36e547c4",
+    "date": "2026-02-08",
+    "time": "12:46",
+    "weightKg": 73.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.916613Z",
+    "updatedAt": null
+  },
+  {
+    "id": "d0dcb997-722d-43ef-8830-38150168dab0",
+    "date": "2026-02-09",
+    "time": "15:53",
+    "weightKg": 74.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.916667Z",
+    "updatedAt": null
+  },
+  {
+    "id": "a863ed76-3493-4f5f-8625-ddfc54a286b6",
+    "date": "2026-02-10",
+    "time": "15:19",
+    "weightKg": 75.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.916667Z",
+    "updatedAt": null
+  },
+  {
+    "id": "ccbe96b0-efb7-4ce2-989a-fd6be4942ee4",
+    "date": "2026-02-11",
+    "time": "14:02",
+    "weightKg": 73.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.916667Z",
+    "updatedAt": null
+  },
+  {
+    "id": "4c4e7a72-3757-4309-a479-3b11eae8c454",
+    "date": "2026-02-12",
+    "time": "14:39",
+    "weightKg": 74.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.916667Z",
+    "updatedAt": null
+  },
+  {
+    "id": "5008b2d5-530e-4602-9f25-cb70fd1e273c",
+    "date": "2026-02-13",
+    "time": "11:15",
+    "weightKg": 72.6,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.916925Z",
+    "updatedAt": null
+  },
+  {
+    "id": "49b088e1-0705-48fe-a3e5-16693a2c6277",
+    "date": "2026-02-14",
+    "time": "11:58",
+    "weightKg": 74.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.916977Z",
+    "updatedAt": null
+  },
+  {
+    "id": "5532178d-2eab-4fd3-b3eb-9e6c1c3122f2",
+    "date": "2026-02-15",
+    "time": "09:45",
+    "weightKg": 76.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.916977Z",
+    "updatedAt": null
+  },
+  {
+    "id": "bfe9bbcb-4730-4d8e-b415-7dddefe31aa3",
+    "date": "2026-02-16",
+    "time": "19:07",
+    "weightKg": 75.3,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.916977Z",
+    "updatedAt": null
+  },
+  {
+    "id": "1e5e532b-3ba2-4da1-bda2-ff59d767c65b",
+    "date": "2026-02-17",
+    "time": "15:30",
+    "weightKg": 74.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.916977Z",
+    "updatedAt": null
+  },
+  {
+    "id": "77a6ad15-a321-4f52-b265-8128a21fbff5",
+    "date": "2026-02-18",
+    "time": "09:00",
+    "weightKg": 73.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.917241Z",
+    "updatedAt": null
+  },
+  {
+    "id": "9eb93596-28e3-4771-afa4-15c977fb1d39",
+    "date": "2026-02-19",
+    "time": "09:33",
+    "weightKg": 74.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.917296Z",
+    "updatedAt": null
+  },
+  {
+    "id": "744f4923-780d-4bd1-a433-18afd57e9e17",
+    "date": "2026-02-20",
+    "time": "09:11",
+    "weightKg": 74.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.917296Z",
+    "updatedAt": null
+  },
+  {
+    "id": "dbbfad26-7ba7-4733-87e5-39323f7ab864",
+    "date": "2026-02-21",
+    "time": "14:47",
+    "weightKg": 74.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.917296Z",
+    "updatedAt": null
+  },
+  {
+    "id": "d06e25ae-8fbf-4647-950c-2566a3a2196e",
+    "date": "2026-02-22",
+    "time": "15:40",
+    "weightKg": 74.3,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.917483Z",
+    "updatedAt": null
+  },
+  {
+    "id": "c733ca77-1287-4c2f-b53b-614e3690e7f3",
+    "date": "2026-02-23",
+    "time": "15:34",
+    "weightKg": 73.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.917529Z",
+    "updatedAt": null
+  },
+  {
+    "id": "b04bce30-6b49-4ea6-8cf0-4ace950060a7",
+    "date": "2026-02-24",
+    "time": "15:08",
+    "weightKg": 73.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.917529Z",
+    "updatedAt": null
+  },
+  {
+    "id": "22bf2c0b-10a0-4608-9c5a-cfe40b80b058",
+    "date": "2026-02-25",
+    "time": "15:06",
+    "weightKg": 73.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.917529Z",
+    "updatedAt": null
+  },
+  {
+    "id": "d6906bea-f62c-4157-b328-dfe8116ad78b",
+    "date": "2026-02-26",
+    "time": "15:07",
+    "weightKg": 74.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.917529Z",
+    "updatedAt": null
+  },
+  {
+    "id": "e5c74820-7753-4bd7-a8ec-bde173fce2d5",
+    "date": "2026-02-27",
+    "time": "14:54",
+    "weightKg": 75.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.917529Z",
+    "updatedAt": null
+  },
+  {
+    "id": "bb63319d-03ec-4723-9d3b-e14fa2302c4d",
+    "date": "2026-02-28",
+    "time": "16:45",
+    "weightKg": 73.0,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.917529Z",
+    "updatedAt": null
+  },
+  {
+    "id": "5e75b3a8-69b9-4f8c-8927-b4de9ffa915a",
+    "date": "2026-03-01",
+    "time": "06:30",
+    "weightKg": 73.0,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.917915Z",
+    "updatedAt": null
+  },
+  {
+    "id": "7b0e1d7e-d25d-4206-99b1-f52fdff846a7",
+    "date": "2026-03-02",
+    "time": "12:28",
+    "weightKg": 74.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.917915Z",
+    "updatedAt": null
+  },
+  {
+    "id": "6cf994d3-f8d3-415f-8118-4744b7a50da6",
+    "date": "2026-03-03",
+    "time": "12:27",
+    "weightKg": 74.6,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.917990Z",
+    "updatedAt": null
+  },
+  {
+    "id": "783c5c36-57e3-471a-a764-27bffebaa721",
+    "date": "2026-03-04",
+    "time": "15:20",
+    "weightKg": 73.6,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.917990Z",
+    "updatedAt": null
+  },
+  {
+    "id": "fddffbb1-00ac-4f9b-a0ff-f05abb271e3e",
+    "date": "2026-03-05",
+    "time": "14:12",
+    "weightKg": 73.05,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.917990Z",
+    "updatedAt": null
+  },
+  {
+    "id": "f46e8ac8-5658-45a5-b736-a2503b78d79b",
+    "date": "2026-03-06",
+    "time": "14:36",
+    "weightKg": 73.05,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.917990Z",
+    "updatedAt": null
+  },
+  {
+    "id": "c05ea38b-3f29-4ab9-87f0-7b5b9c2b6cd4",
+    "date": "2026-03-07",
+    "time": "12:48",
+    "weightKg": 73.05,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.918260Z",
+    "updatedAt": null
+  },
+  {
+    "id": "dea59e56-59c0-420e-901a-e2bf71d07f89",
+    "date": "2026-03-08",
+    "time": "14:46",
+    "weightKg": 73.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.918309Z",
+    "updatedAt": null
+  },
+  {
+    "id": "74951acd-1d8a-43b3-a28e-ab3f1d0cd006",
+    "date": "2026-03-09",
+    "time": "16:40",
+    "weightKg": 73.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.918309Z",
+    "updatedAt": null
+  },
+  {
+    "id": "0da505d3-6d15-4215-b721-7f92977a94eb",
+    "date": "2026-03-10",
+    "time": "14:27",
+    "weightKg": 73.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.918309Z",
+    "updatedAt": null
+  },
+  {
+    "id": "4442153d-c5e5-4c16-8800-28bf0164006d",
+    "date": "2026-03-11",
+    "time": "15:50",
+    "weightKg": 73.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.918309Z",
+    "updatedAt": null
+  },
+  {
+    "id": "302fbd62-8f6c-45a1-8160-41fd2edf3b91",
+    "date": "2026-03-12",
+    "time": "15:59",
+    "weightKg": 74.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.918556Z",
+    "updatedAt": null
+  },
+  {
+    "id": "de2d632d-1400-4e7d-95cc-29ceb7c51b17",
+    "date": "2026-03-13",
+    "time": "16:04",
+    "weightKg": 73.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.918609Z",
+    "updatedAt": null
+  },
+  {
+    "id": "1b5e5d33-862b-46a5-b472-77973322c346",
+    "date": "2026-03-14",
+    "time": "15:03",
+    "weightKg": 74.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.918609Z",
+    "updatedAt": null
+  },
+  {
+    "id": "91dcd1d9-8d3e-45d4-ba82-5f7d5d38def3",
+    "date": "2026-03-15",
+    "time": "16:30",
+    "weightKg": 74.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.918609Z",
+    "updatedAt": null
+  },
+  {
+    "id": "1f7a385e-5d25-42c7-a20a-c920e21d9f77",
+    "date": "2026-03-16",
+    "time": "14:38",
+    "weightKg": 74.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.918609Z",
+    "updatedAt": null
+  },
+  {
+    "id": "37e187de-7ba2-4031-9d55-fa8d6eddcadf",
+    "date": "2026-03-17",
+    "time": "09:12",
+    "weightKg": 73.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.918884Z",
+    "updatedAt": null
+  },
+  {
+    "id": "bd069583-5fec-4eb8-9a6c-951b0e889477",
+    "date": "2026-03-18",
+    "time": "13:20",
+    "weightKg": 74.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.918935Z",
+    "updatedAt": null
+  },
+  {
+    "id": "ea052cad-b59d-44d0-ab91-3032ce4f7992",
+    "date": "2026-03-19",
+    "time": "15:12",
+    "weightKg": 73.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.918935Z",
+    "updatedAt": null
+  },
+  {
+    "id": "c51c2cec-2aea-4211-8134-a1b295245d6a",
+    "date": "2026-03-20",
+    "time": "09:16",
+    "weightKg": 74.1,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.918935Z",
+    "updatedAt": null
+  },
+  {
+    "id": "9da22f09-390c-4403-86cb-772bb0a9e577",
+    "date": "2026-03-21",
+    "time": "12:51",
+    "weightKg": 73.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.918935Z",
+    "updatedAt": null
+  },
+  {
+    "id": "38d96ffe-f12a-4eb9-b10f-c6cf922552d7",
+    "date": "2026-03-22",
+    "time": "14:06",
+    "weightKg": 73.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.918935Z",
+    "updatedAt": null
+  },
+  {
+    "id": "35c08787-88ec-4ff8-98ee-74d14768ce7b",
+    "date": "2026-03-23",
+    "time": "15:17",
+    "weightKg": 74.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.918935Z",
+    "updatedAt": null
+  },
+  {
+    "id": "52d6437f-886a-4909-8058-bc8a0207ce8e",
+    "date": "2026-03-24",
+    "time": "16:03",
+    "weightKg": 73.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.918935Z",
+    "updatedAt": null
+  },
+  {
+    "id": "29a8c528-d420-4f8a-ad9a-7310c4b3af37",
+    "date": "2026-03-25",
+    "time": "14:30",
+    "weightKg": 73.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.918935Z",
+    "updatedAt": null
+  },
+  {
+    "id": "db94c044-465a-42b3-8540-9396fd0b3e71",
+    "date": "2026-03-26",
+    "time": "16:54",
+    "weightKg": 73.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.919363Z",
+    "updatedAt": null
+  },
+  {
+    "id": "ee947049-cd63-4424-adca-71d847b4f52c",
+    "date": "2026-03-27",
+    "time": "10:40",
+    "weightKg": 74.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.919422Z",
+    "updatedAt": null
+  },
+  {
+    "id": "416dce3c-14e1-4007-bea0-a2a86db6dcb6",
+    "date": "2026-03-28",
+    "time": "12:28",
+    "weightKg": 74.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.919422Z",
+    "updatedAt": null
+  },
+  {
+    "id": "c7943b34-a394-4388-9252-7e576682b41a",
+    "date": "2026-03-29",
+    "time": "16:42",
+    "weightKg": 75.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.919422Z",
+    "updatedAt": null
+  },
+  {
+    "id": "4c1d9de8-1438-4c89-af5a-1065d98f02e9",
+    "date": "2026-03-30",
+    "time": "01:33",
+    "weightKg": 73.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.919422Z",
+    "updatedAt": null
+  },
+  {
+    "id": "fa97b73a-595d-4196-9177-8840f2d80c16",
+    "date": "2026-03-31",
+    "time": "12:53",
+    "weightKg": 72.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.919690Z",
+    "updatedAt": null
+  },
+  {
+    "id": "3a59b7df-ecaf-42fb-9d3b-41a5d3e79e50",
+    "date": "2026-04-01",
+    "time": "11:00",
+    "weightKg": 71.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.919690Z",
+    "updatedAt": null
+  },
+  {
+    "id": "9c5eeb3b-3ad7-4a9c-8087-7fbbe5b72205",
+    "date": "2026-04-02",
+    "time": "14:56",
+    "weightKg": 72.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.919690Z",
+    "updatedAt": null
+  },
+  {
+    "id": "349b0f4a-445b-42d5-9d05-c16979eefe97",
+    "date": "2026-04-03",
+    "time": "11:45",
+    "weightKg": 73.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.919690Z",
+    "updatedAt": null
+  },
+  {
+    "id": "11d7f96e-f836-4095-9c11-7edfa396b2ac",
+    "date": "2026-04-04",
+    "time": "12:31",
+    "weightKg": 72.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.919892Z",
+    "updatedAt": null
+  },
+  {
+    "id": "3ed2dec6-2ce6-41db-8147-828559711c56",
+    "date": "2026-04-05",
+    "time": "07:17",
+    "weightKg": 72.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.919946Z",
+    "updatedAt": null
+  },
+  {
+    "id": "c9b18dfa-c9c1-4b22-9e49-87c58b11d34e",
+    "date": "2026-04-06",
+    "time": "16:56",
+    "weightKg": 73.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.919946Z",
+    "updatedAt": null
+  },
+  {
+    "id": "766a9fd8-10ae-4f03-b128-d929e13c7226",
+    "date": "2026-04-07",
+    "time": "14:20",
+    "weightKg": 73.3,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.919946Z",
+    "updatedAt": null
+  },
+  {
+    "id": "3dd3b31e-3283-4369-b608-20c50865b456",
+    "date": "2026-04-08",
+    "time": "12:51",
+    "weightKg": 73.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.920160Z",
+    "updatedAt": null
+  },
+  {
+    "id": "e5a5ae9b-990a-427a-a2ad-c77083e43847",
+    "date": "2026-04-09",
+    "time": "11:21",
+    "weightKg": 73.0,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.920212Z",
+    "updatedAt": null
+  },
+  {
+    "id": "07ea9130-6a93-4ac0-b949-42ef0cced22d",
+    "date": "2026-04-10",
+    "time": "13:41",
+    "weightKg": 72.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.920212Z",
+    "updatedAt": null
+  },
+  {
+    "id": "b7748d03-2aa1-4ecd-adb6-690d6ff16873",
+    "date": "2026-04-11",
+    "time": "15:17",
+    "weightKg": 71.5,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.920212Z",
+    "updatedAt": null
+  },
+  {
+    "id": "64ba3772-0faa-4504-bdf5-0d70b2c45474",
+    "date": "2026-04-12",
+    "time": "15:08",
+    "weightKg": 73.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.920212Z",
+    "updatedAt": null
+  },
+  {
+    "id": "aa3b729b-641e-449b-b791-7bae45bd86be",
+    "date": "2026-04-13",
+    "time": "12:40",
+    "weightKg": 73.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.920212Z",
+    "updatedAt": null
+  },
+  {
+    "id": "8c5776bf-61c8-4d1c-be6e-6a078a1358eb",
+    "date": "2026-04-14",
+    "time": "07:57",
+    "weightKg": 74.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.920212Z",
+    "updatedAt": null
+  },
+  {
+    "id": "117c6f6e-ffa0-4877-9f6c-28957e8156fe",
+    "date": "2026-04-15",
+    "time": "14:42",
+    "weightKg": 72.6,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.920579Z",
+    "updatedAt": null
+  },
+  {
+    "id": "4bdbaaac-1512-4e45-9d15-6f407552766c",
+    "date": "2026-04-16",
+    "time": "13:32",
+    "weightKg": 72.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.920636Z",
+    "updatedAt": null
+  },
+  {
+    "id": "251884cb-329b-4b28-be82-590f2cb61e30",
+    "date": "2026-04-17",
+    "time": "14:20",
+    "weightKg": 72.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.920636Z",
+    "updatedAt": null
+  },
+  {
+    "id": "cf761280-644e-4baa-9725-7f09123598ec",
+    "date": "2026-04-18",
+    "time": "15:37",
+    "weightKg": 73.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.920636Z",
+    "updatedAt": null
+  },
+  {
+    "id": "4208e322-b522-47a7-aff4-3057496fb299",
+    "date": "2026-04-19",
+    "time": "17:57",
+    "weightKg": 72.6,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.920636Z",
+    "updatedAt": null
+  },
+  {
+    "id": "7ed290a8-95e4-4b80-ad24-9f388c6435c4",
+    "date": "2026-04-20",
+    "time": "11:38",
+    "weightKg": 71.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.920890Z",
+    "updatedAt": null
+  },
+  {
+    "id": "f04b94e3-d7f1-4f98-b37b-971aa851491e",
+    "date": "2026-04-21",
+    "time": "12:20",
+    "weightKg": 73.6,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.920938Z",
+    "updatedAt": null
+  },
+  {
+    "id": "b354daca-99b2-4275-8f2d-edc4871395cd",
+    "date": "2026-04-22",
+    "time": "13:57",
+    "weightKg": 72.9,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.920938Z",
+    "updatedAt": null
+  },
+  {
+    "id": "4b80e73f-2be1-41f6-ada0-27d0cf06c678",
+    "date": "2026-04-23",
+    "time": "10:13",
+    "weightKg": 72.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.920938Z",
+    "updatedAt": null
+  },
+  {
+    "id": "6e3b7f59-749e-4530-acbd-aa05374ccb5e",
+    "date": "2026-04-24",
+    "time": "12:43",
+    "weightKg": 71.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.920938Z",
+    "updatedAt": null
+  },
+  {
+    "id": "433708c3-0d6d-4832-bfe9-998e65c8f687",
+    "date": "2026-04-25",
+    "time": "15:14",
+    "weightKg": 73.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.920938Z",
+    "updatedAt": null
+  },
+  {
+    "id": "db2338e1-300f-46a8-9e43-f7449fbdf612",
+    "date": "2026-04-26",
+    "time": "13:50",
+    "weightKg": 73.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.921215Z",
+    "updatedAt": null
+  },
+  {
+    "id": "eb8915f2-866c-42e9-9923-62f723aa941f",
+    "date": "2026-04-27",
+    "time": "13:41",
+    "weightKg": 73.8,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.921277Z",
+    "updatedAt": null
+  },
+  {
+    "id": "44f7382e-51a9-4e6f-87a5-fb524309e6b2",
+    "date": "2026-04-28",
+    "time": "12:09",
+    "weightKg": 71.2,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.921277Z",
+    "updatedAt": null
+  },
+  {
+    "id": "61bb6ed1-72b9-470f-8d14-de584a4f1d9a",
+    "date": "2026-04-29",
+    "time": "13:04",
+    "weightKg": 70.7,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.921277Z",
+    "updatedAt": null
+  },
+  {
+    "id": "bb4aa630-d359-4796-87f7-ccf171b7302f",
+    "date": "2026-04-30",
+    "time": "11:53",
+    "weightKg": 73.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.921277Z",
+    "updatedAt": null
+  },
+  {
+    "id": "7f50a5c0-ea92-45d4-b26e-a31f468ab701",
+    "date": "2026-05-01",
+    "time": "12:14",
+    "weightKg": 73.4,
+    "notes": null,
+    "source": "import",
+    "createdAt": "2026-05-02T19:06:42.921509Z",
+    "updatedAt": null
+  }
+]
