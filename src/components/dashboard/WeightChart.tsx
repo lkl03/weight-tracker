@@ -32,6 +32,27 @@ const CustomTooltip = ({ active, payload, label }: any) => {
   );
 };
 
+// Custom label rendered inside the chart for year markers
+const YearLabel = ({ viewBox, year }: { viewBox?: { x: number; y: number; height: number }; year: string }) => {
+  if (!viewBox) return null;
+  const { x, y, height } = viewBox;
+  return (
+    <g>
+      <rect x={x + 3} y={y + (height ?? 0) - 22} width={32} height={16} rx={4} fill="#f1f5f9" opacity={0.9} />
+      <text
+        x={x + 19}
+        y={y + (height ?? 0) - 10}
+        textAnchor="middle"
+        fontSize={10}
+        fontWeight={600}
+        fill="#64748b"
+      >
+        {year}
+      </text>
+    </g>
+  );
+};
+
 interface Props {
   data: ChartDataPoint[];
   showMA7?: boolean;
@@ -44,10 +65,23 @@ export function WeightChart({ data, showMA7 = true, showMA30 = false, goalWeight
   const minY = weights.length ? Math.floor(Math.min(...weights) - 1) : 60;
   const maxY = weights.length ? Math.ceil(Math.max(...weights) + 1) : 90;
 
-  // Thin out labels for dense data
+  // Thin out X-axis labels for dense data
   const tickCount = Math.min(data.length, 8);
   const step = Math.ceil(data.length / tickCount);
   const ticks = data.filter((_, i) => i % step === 0).map((d) => d.date);
+
+  // Find year-boundary dates: the first data point of each year after the first
+  const yearBoundaries: { date: string; year: string }[] = [];
+  let lastYear = "";
+  for (const point of data) {
+    const year = point.date.slice(0, 4);
+    if (year !== lastYear) {
+      if (lastYear !== "") {
+        yearBoundaries.push({ date: point.date, year });
+      }
+      lastYear = year;
+    }
+  }
 
   return (
     <ResponsiveContainer width="100%" height={320}>
@@ -74,7 +108,9 @@ export function WeightChart({ data, showMA7 = true, showMA30 = false, goalWeight
           iconType="circle"
           iconSize={8}
         />
-        {goalWeight && (
+
+        {/* Goal weight line */}
+        {goalWeight != null && goalWeight > 0 && (
           <ReferenceLine
             y={goalWeight}
             stroke="#f87171"
@@ -83,6 +119,19 @@ export function WeightChart({ data, showMA7 = true, showMA30 = false, goalWeight
             label={{ value: `Meta ${goalWeight}`, position: "right", fontSize: 10, fill: "#f87171" }}
           />
         )}
+
+        {/* Year boundary markers — only shown when data spans multiple years */}
+        {yearBoundaries.map(({ date, year }) => (
+          <ReferenceLine
+            key={year}
+            x={date}
+            stroke="#94a3b8"
+            strokeDasharray="4 3"
+            strokeWidth={1}
+            label={<YearLabel year={year} />}
+          />
+        ))}
+
         <Line
           type="monotone"
           dataKey="weight"

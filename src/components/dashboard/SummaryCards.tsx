@@ -1,9 +1,10 @@
 "use client";
 
+import { useState, useRef } from "react";
 import { Card, CardContent, CardTitle, CardHeader } from "@/components/ui/card";
 import type { SummaryStats } from "@/types";
 import { formatDate, formatWeight } from "@/lib/utils";
-import { TrendingDown, TrendingUp, Minus, Target, Activity, Flame, Scale, Calendar } from "lucide-react";
+import { TrendingDown, TrendingUp, Minus, Target, Activity, Flame, Scale, Calendar, Pencil, Check, X } from "lucide-react";
 
 function DeltaBadge({ value }: { value: number | null }) {
   if (value === null) return <span className="text-slate-400 text-sm">—</span>;
@@ -31,11 +32,106 @@ function bmiCategory(bmi: number): { label: string; color: string } {
   return { label: "Obesidad", color: "text-rose-600" };
 }
 
-interface Props {
-  stats: SummaryStats;
+function GoalCard({ stats, onGoalChange }: { stats: SummaryStats; onGoalChange: (v: number) => void }) {
+  const [editing, setEditing] = useState(false);
+  const [draft, setDraft] = useState(String(stats.goalWeight));
+  const inputRef = useRef<HTMLInputElement>(null);
+
+  function startEdit() {
+    setDraft(String(stats.goalWeight));
+    setEditing(true);
+    setTimeout(() => inputRef.current?.select(), 0);
+  }
+
+  function commit() {
+    const parsed = parseFloat(draft.replace(",", "."));
+    if (!isNaN(parsed) && parsed > 0 && parsed < 300) {
+      onGoalChange(parsed);
+    }
+    setEditing(false);
+  }
+
+  function cancel() {
+    setDraft(String(stats.goalWeight));
+    setEditing(false);
+  }
+
+  function onKeyDown(e: React.KeyboardEvent) {
+    if (e.key === "Enter") commit();
+    if (e.key === "Escape") cancel();
+  }
+
+  const achieved = stats.diffFromGoal !== null && stats.diffFromGoal <= 0;
+  const diff = stats.diffFromGoal;
+
+  let valueText: string;
+  if (diff === null) valueText = "—";
+  else if (diff <= 0) valueText = "🎯 ¡Logrado!";
+  else valueText = `${diff.toFixed(1)} kg para llegar`;
+
+  return (
+    <Card className="bg-gradient-to-br from-rose-50 to-rose-100/50">
+      <CardHeader className="pb-1">
+        <div className="flex items-center justify-between">
+          <CardTitle>Objetivo</CardTitle>
+          <div className="flex items-center gap-1">
+            {!editing && (
+              <button
+                onClick={startEdit}
+                className="text-rose-400 hover:text-rose-600 transition-colors p-0.5 rounded"
+                title="Editar objetivo"
+              >
+                <Pencil size={13} />
+              </button>
+            )}
+            <Target size={18} className="text-rose-500" />
+          </div>
+        </div>
+      </CardHeader>
+      <CardContent>
+        <p className="text-xl font-bold text-slate-800 leading-tight">{valueText}</p>
+        <div className="mt-1 flex items-center gap-1.5 flex-wrap">
+          {editing ? (
+            <>
+              <input
+                ref={inputRef}
+                type="number"
+                step="0.1"
+                min="30"
+                max="300"
+                value={draft}
+                onChange={(e) => setDraft(e.target.value)}
+                onKeyDown={onKeyDown}
+                className="w-16 rounded-lg border border-rose-300 bg-white px-2 py-0.5 text-sm font-medium text-slate-700 focus:outline-none focus:ring-2 focus:ring-rose-400/50"
+              />
+              <span className="text-xs text-slate-400">kg</span>
+              <button onClick={commit} className="text-emerald-600 hover:text-emerald-700 p-0.5">
+                <Check size={14} />
+              </button>
+              <button onClick={cancel} className="text-slate-400 hover:text-slate-600 p-0.5">
+                <X size={14} />
+              </button>
+            </>
+          ) : (
+            <span className="text-xs text-slate-400">{formatWeight(stats.goalWeight)} meta</span>
+          )}
+          {!editing && diff !== null && diff > 0 && (
+            <span className="text-xs text-rose-400">
+              · {((diff / (stats.currentWeight ?? 1)) * 100).toFixed(1)}% restante
+            </span>
+          )}
+        </div>
+      </CardContent>
+    </Card>
+  );
 }
 
-export function SummaryCards({ stats }: Props) {
+interface Props {
+  stats: SummaryStats;
+  onGoalChange: (newGoal: number) => void;
+}
+
+export function SummaryCards({ stats, onGoalChange }: Props) {
   const bmi = stats.bmi;
   const bmiInfo = bmi ? bmiCategory(bmi) : null;
 
@@ -50,24 +146,15 @@ export function SummaryCards({ stats }: Props) {
     },
     {
       title: "Vs semana anterior",
-      value: stats.changeVsWeekAgo !== null ? (stats.changeVsWeekAgo > 0 ? `+${stats.changeVsWeekAgo.toFixed(1)}` : `${stats.changeVsWeekAgo.toFixed(1)}`) + " kg" : "—",
-      sub: stats.previousWeight ? <span className="text-slate-400 text-sm">{formatWeight(stats.previousWeight)} anterior</span> : null,
+      value: stats.changeVsWeekAgo !== null
+        ? (stats.changeVsWeekAgo > 0 ? `+${stats.changeVsWeekAgo.toFixed(1)}` : `${stats.changeVsWeekAgo.toFixed(1)}`) + " kg"
+        : "—",
+      sub: stats.previousWeight
+        ? <span className="text-slate-400 text-sm">{formatWeight(stats.previousWeight)} anterior</span>
+        : null,
       subLabel: "",
       icon: <Activity size={18} className="text-violet-500" />,
       accent: "from-violet-50 to-violet-100/50",
-    },
-    {
-      title: "Objetivo",
-      value: stats.diffFromGoal !== null
-        ? stats.diffFromGoal === 0 ? "🎯 ¡Logrado!"
-          : stats.diffFromGoal > 0
-            ? `${stats.diffFromGoal.toFixed(1)} kg para llegar`
-            : `${Math.abs(stats.diffFromGoal).toFixed(1)} kg por debajo`
-        : "—",
-      sub: <span className="text-slate-400 text-sm">{formatWeight(stats.goalWeight)} meta</span>,
-      subLabel: "",
-      icon: <Target size={18} className="text-rose-500" />,
-      accent: "from-rose-50 to-rose-100/50",
     },
     {
       title: "BMI",
@@ -112,7 +199,9 @@ export function SummaryCards({ stats }: Props) {
     {
       title: "Mínimo histórico",
       value: stats.lowestWeight ? formatWeight(stats.lowestWeight) : "—",
-      sub: stats.lowestWeightDate ? <span className="text-slate-400 text-sm">{formatDate(stats.lowestWeightDate)}</span> : null,
+      sub: stats.lowestWeightDate
+        ? <span className="text-slate-400 text-sm">{formatDate(stats.lowestWeightDate)}</span>
+        : null,
       subLabel: "",
       icon: <TrendingDown size={18} className="text-emerald-500" />,
       accent: "from-emerald-50 to-emerald-100/50",
@@ -120,7 +209,9 @@ export function SummaryCards({ stats }: Props) {
     {
       title: "Máximo histórico",
       value: stats.highestWeight ? formatWeight(stats.highestWeight) : "—",
-      sub: stats.highestWeightDate ? <span className="text-slate-400 text-sm">{formatDate(stats.highestWeightDate)}</span> : null,
+      sub: stats.highestWeightDate
+        ? <span className="text-slate-400 text-sm">{formatDate(stats.highestWeightDate)}</span>
+        : null,
       subLabel: "",
       icon: <TrendingUp size={18} className="text-rose-500" />,
       accent: "from-rose-50 to-rose-100/50",
@@ -129,7 +220,32 @@ export function SummaryCards({ stats }: Props) {
 
   return (
     <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-5">
-      {cards.map((card) => (
+      {/* First two standard cards */}
+      {cards.slice(0, 2).map((card) => (
+        <Card key={card.title} className={`bg-gradient-to-br ${card.accent}`}>
+          <CardHeader className="pb-1">
+            <div className="flex items-center justify-between">
+              <CardTitle>{card.title}</CardTitle>
+              {card.icon}
+            </div>
+          </CardHeader>
+          <CardContent>
+            <p className="text-xl font-bold text-slate-800 leading-tight">{card.value}</p>
+            {(card.sub || card.subLabel) && (
+              <div className="mt-1 flex items-center gap-1">
+                {card.sub}
+                {card.subLabel && <span className="text-xs text-slate-400">{card.subLabel}</span>}
+              </div>
+            )}
+          </CardContent>
+        </Card>
+      ))}
+
+      {/* Editable goal card */}
+      <GoalCard stats={stats} onGoalChange={onGoalChange} />
+
+      {/* Remaining standard cards */}
+      {cards.slice(2).map((card) => (
         <Card key={card.title} className={`bg-gradient-to-br ${card.accent}`}>
           <CardHeader className="pb-1">
             <div className="flex items-center justify-between">
