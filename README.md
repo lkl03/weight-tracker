@@ -41,6 +41,7 @@ The data is a single daily number, so a document store is plenty. **Firestore** 
 | `TELEGRAM_ALLOWED_CHAT_ID` | Your Telegram numeric chat ID |
 | `TELEGRAM_WEBHOOK_SECRET` | Random string to validate webhook calls |
 | `CRON_SECRET` | Random string to protect the cron endpoint |
+| `APP_PASSWORD` | Password to log in to the dashboard, history and entries API |
 | `NEXT_PUBLIC_APP_URL` | Public URL of the deployed app (used in bot help) |
 
 Copy `.env.local.example` to `.env.local` and fill in all values.
@@ -159,9 +160,17 @@ npm i -g vercel
 vercel --prod
 ```
 
-Set all 8 environment variables in **Vercel → Project → Settings → Environment Variables**.
+Set all 9 environment variables in **Vercel → Project → Settings → Environment Variables**.
 
 After deploying, set the Telegram webhook URL to `https://your-app.vercel.app/api/telegram`.
+
+---
+
+## Access
+
+The whole app is behind a single password (`APP_PASSWORD`). `src/proxy.ts` checks an httpOnly session cookie (30 days, HMAC keyed by the password) on every page and API route; logged-out visitors are sent to `/login`, and API calls get `401`. Changing `APP_PASSWORD` logs out all sessions.
+
+`/api/telegram` and `/api/cron` are exempt from the cookie check because they authenticate with their own secrets (`TELEGRAM_WEBHOOK_SECRET`, `CRON_SECRET`).
 
 ---
 
@@ -169,7 +178,9 @@ After deploying, set the Telegram webhook URL to `https://your-app.vercel.app/ap
 
 | Method | Path | Description |
 |---|---|---|
-| `GET` | `/api/entries` | List all entries (`from`, `to`, `limit` params) |
+| `POST` | `/api/auth` | Log in (`{ password }`) — sets the session cookie |
+| `DELETE` | `/api/auth` | Log out |
+| `GET` | `/api/entries` | List all entries (`from`, `to`, `limit` params) — requires session |
 | `POST` | `/api/entries` | Create entry |
 | `PATCH` | `/api/entries/:id` | Update entry |
 | `DELETE` | `/api/entries/:id` | Delete entry |
