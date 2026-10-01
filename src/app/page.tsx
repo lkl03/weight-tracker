@@ -1,4 +1,5 @@
-import { createServerClient, dbRowToEntry } from "@/lib/supabase";
+import { listEntries } from "@/lib/firestore";
+import type { WeightEntry } from "@/types";
 import { computeStats, buildChartData, buildWeeklyAverages, buildMonthlyAverages } from "@/lib/calculations";
 import { getAgeFromBirthdate, getDailyMotivation } from "@/lib/utils";
 import { DashboardClient } from "./DashboardClient";
@@ -8,22 +9,17 @@ const BIRTH_DATE = new Date(2003, 1, 14); // Feb 14, 2003
 export const dynamic = "force-dynamic";
 
 export default async function HomePage() {
-  const db = createServerClient();
-  const { data, error } = await db
-    .from("weight_entries")
-    .select("*")
-    .order("date", { ascending: true })
-    .order("time", { ascending: true });
-
-  if (error) {
+  let entries: WeightEntry[];
+  try {
+    entries = await listEntries({ direction: "asc" });
+  } catch (error) {
     return (
       <div className="flex items-center justify-center min-h-[50vh]">
-        <p className="text-red-500 text-sm">Error cargando datos: {error.message}</p>
+        <p className="text-red-500 text-sm">Error cargando datos: {error instanceof Error ? error.message : String(error)}</p>
       </div>
     );
   }
 
-  const entries = (data ?? []).map(dbRowToEntry);
   const stats = computeStats(entries);
   const allChartData = buildChartData(entries);
   const weeklyAvgs = buildWeeklyAverages(entries);

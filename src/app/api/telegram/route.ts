@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-import { createServerClient, dbRowToEntry, entryToDbRow } from "@/lib/supabase";
+import { createEntry, getLatestEntry } from "@/lib/firestore";
 import {
   isAllowedChat,
   sendTelegramMessage,
@@ -45,33 +45,21 @@ export async function POST(req: NextRequest) {
       return NextResponse.json({ ok: true });
     }
 
-    const db = createServerClient();
     const today = getTodayBsAs();
 
     // Get the most recent entry to compare
-    const { data: recentRows } = await db
-      .from("weight_entries")
-      .select("*")
-      .order("date", { ascending: false })
-      .order("time", { ascending: false })
-      .limit(1);
-
-    const previousEntry = recentRows?.[0] ? dbRowToEntry(recentRows[0]) : null;
+    const previousEntry = await getLatestEntry();
     const previousWeight = previousEntry?.weightKg ?? null;
 
-    const entry = {
+    await createEntry({
       id: randomUUID(),
       date: today,
       time: parsed.time,
-      weight_kg: parsed.weight,
+      weightKg: parsed.weight,
       notes: null,
       source: "telegram",
-      created_at: new Date().toISOString(),
-      updated_at: null,
-    };
-
-    const { error } = await db.from("weight_entries").insert(entry);
-    if (error) throw error;
+      createdAt: new Date().toISOString(),
+    });
 
     const msg = buildConfirmationMessage(parsed.weight, parsed.time, previousWeight);
     await sendTelegramMessage(String(chatId), msg);

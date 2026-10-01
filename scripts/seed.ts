@@ -1,26 +1,16 @@
 /**
- * Seed script: imports weight_entries_seed.json into Supabase.
+ * Seed script: imports data/seed.json into Firestore.
  * Run: npx tsx scripts/seed.ts
  *
- * Requires NEXT_PUBLIC_SUPABASE_URL and SUPABASE_SERVICE_ROLE_KEY in .env.local
+ * Requires the FIREBASE_* variables in .env.local
  */
 
-import { createClient } from "@supabase/supabase-js";
-import { readFileSync } from "fs";
-import { join } from "path";
 import * as dotenv from "dotenv";
-
 dotenv.config({ path: ".env.local" });
 
-const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL!;
-const serviceKey = process.env.SUPABASE_SERVICE_ROLE_KEY!;
-
-if (!supabaseUrl || !serviceKey) {
-  console.error("Missing NEXT_PUBLIC_SUPABASE_URL or SUPABASE_SERVICE_ROLE_KEY in .env.local");
-  process.exit(1);
-}
-
-const db = createClient(supabaseUrl, serviceKey);
+import { readFileSync } from "fs";
+import { join } from "path";
+import { COLLECTION, getDb, normalizeTime, type WeightEntryDoc } from "../src/lib/firestore";
 
 interface SeedEntry {
   id: string;
@@ -28,44 +18,39 @@ interface SeedEntry {
   time: string;
   weightKg: number;
   notes?: string | null;
-  source: string;
+  source: WeightEntryDoc["source"];
   createdAt: string;
   updatedAt?: string | null;
 }
 
 async function main() {
   const seedPath = join(process.cwd(), "data", "seed.json");
-  const raw = readFileSync(seedPath, "utf-8");
-  const entries: SeedEntry[] = JSON.parse(raw);
+  const entries: SeedEntry[] = JSON.parse(readFileSync(seedPath, "utf-8"));
 
   console.log(`Seeding ${entries.length} entries...`);
 
-  const rows = entries.map((e) => ({
-    id: e.id,
-    date: e.date,
-    time: e.time,
-    weight_kg: e.weightKg,
-    notes: e.notes ?? null,
-    source: e.source,
-    created_at: e.createdAt,
-    updated_at: e.updatedAt ?? null,
-  }));
-
-  // Insert in batches of 100
-  const batchSize = 100;
-  let inserted = 0;
-  for (let i = 0; i < rows.length; i += batchSize) {
-    const batch = rows.slice(i, i + batchSize);
-    const { error } = await db.from("weight_entries").upsert(batch, { onConflict: "id" });
-    if (error) {
-      console.error(`Error at batch ${i}:`, error);
-      process.exit(1);
-    }
-    inserted += batch.length;
-    console.log(`  ${inserted}/${rows.length}`);
+  // set() by id = upsert, safe to run multiple times
+  const db = getDb();
+  const col = db.collection(COLLECTION);
+  const writer = db.bulkWriter();
+  for (const e of entries) {
+    const doc: WeightEntryDoc = {
+      date: e.date,
+      time: normalizeTime(e.time),
+      weight_kg: e.weightKg,
+      notes: e.notes ?? null,
+      source: e.source,
+      created_at: e.createdAt,
+      updated_at: e.updatedAt ?? null,
+    };
+    writer.set(col.doc(e.id), doc);
   }
+  await writer.close();
 
-  console.log(`\nDone! Inserted/updated ${inserted} entries.`);
+  console.log(`\nDone! Inserted/updated ${entries.length} entries.`);
 }
 
-main().catch(console.error);
+main().catch((err) => {
+  console.error(err);
+  process.exit(1);
+});

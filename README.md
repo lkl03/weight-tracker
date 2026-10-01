@@ -2,7 +2,7 @@
 
 Daily weight tracking app with a Telegram bot and a modern dashboard.
 
-**Stack:** Next.js 16 · TypeScript · Tailwind CSS · Recharts · Supabase · Telegram Bot API · Vercel
+**Stack:** Next.js 16 · TypeScript · Tailwind CSS · Recharts · Firebase (Firestore) · Telegram Bot API · Vercel
 
 ---
 
@@ -16,16 +16,16 @@ Daily weight tracking app with a Telegram bot and a modern dashboard.
 
 ---
 
-## Why Supabase (not a JSON file)
+## Why Firestore (not a JSON file)
 
 Vercel's serverless runtime has a **read-only filesystem** — writes made at runtime are not persisted between function invocations or deployments. A `.json` file works only as a static seed; it cannot be the source of truth for runtime writes.
 
-**Supabase** was chosen because:
-- PostgreSQL (structured, indexed, reliable)
-- Free tier: 500 MB storage, unlimited API requests
-- TypeScript SDK
-- Row Level Security built-in
+The data is a single daily number, so a document store is plenty. **Firestore** (Firebase project `weight-tracker-lkl`, region `southamerica-east1`) is used because:
+- Free tier covers this app many times over (1 GiB storage, 50k reads / 20k writes per day)
+- All access goes through the Next.js server with the Admin SDK; client access is denied by `firestore.rules`
 - No infrastructure to manage
+
+> Originally ran on Supabase. Migrated to Firestore on 2026-10-01 with `scripts/migrate-supabase-to-firestore.ts` (document ids = original Supabase UUIDs, field names unchanged).
 
 ---
 
@@ -33,9 +33,10 @@ Vercel's serverless runtime has a **read-only filesystem** — writes made at ru
 
 | Variable | Description |
 |---|---|
-| `NEXT_PUBLIC_SUPABASE_URL` | Supabase project URL (Settings → API) |
-| `NEXT_PUBLIC_SUPABASE_ANON_KEY` | Supabase anon/public key |
-| `SUPABASE_SERVICE_ROLE_KEY` | Supabase service role key (server-only writes) |
+| `FIREBASE_PROJECT_ID` | Firebase project id (`weight-tracker-lkl`) |
+| `FIREBASE_CLIENT_EMAIL` | Service account email |
+| `FIREBASE_PRIVATE_KEY` | Service account private key (one line, `
+` escaped, quoted) |
 | `TELEGRAM_BOT_TOKEN` | Token from BotFather |
 | `TELEGRAM_ALLOWED_CHAT_ID` | Your Telegram numeric chat ID |
 | `TELEGRAM_WEBHOOK_SECRET` | Random string to validate webhook calls |
@@ -58,8 +59,8 @@ npm install
 cp .env.local.example .env.local
 # Edit .env.local with your values
 
-# 3. Create the Supabase table
-# Open supabase-schema.sql and run it in your Supabase SQL editor
+# 3. Deploy Firestore rules + indexes (only needed once per project)
+firebase deploy --only firestore
 
 # 4. Seed historical data (586 records from Excel)
 npm run seed
@@ -71,14 +72,17 @@ npm run dev
 
 ---
 
-## Supabase Setup
+## Firebase Setup
 
-1. Go to [supabase.com](https://supabase.com) and create a new project
-2. **SQL Editor** — paste the contents of `supabase-schema.sql` and run it
-3. **Settings → API** — copy:
-   - Project URL → `NEXT_PUBLIC_SUPABASE_URL`
-   - `anon` public key → `NEXT_PUBLIC_SUPABASE_ANON_KEY`
-   - `service_role` key → `SUPABASE_SERVICE_ROLE_KEY`
+1. Firebase project: `weight-tracker-lkl` · Firestore (native mode) in `southamerica-east1`
+2. `firebase deploy --only firestore` publishes `firestore.rules` (deny all client access) and `firestore.indexes.json` (composite index on `date` + `time`)
+3. Server credentials: service account `weight-tracker-server@weight-tracker-lkl.iam.gserviceaccount.com` with role **Cloud Datastore User**. Create a key with:
+   ```bash
+   gcloud iam service-accounts keys create key.json --iam-account=weight-tracker-server@weight-tracker-lkl.iam.gserviceaccount.com
+   ```
+   and copy `project_id`, `client_email`, `private_key` into the `FIREBASE_*` variables. Delete `key.json` afterwards.
+
+**Data model:** collection `weight_entries`, one document per weigh-in, id = UUID. Fields: `date` (YYYY-MM-DD), `time` (HH:MM:SS), `weight_kg` (number), `notes`, `source` (`telegram` | `manual` | `auto-filled` | `import`), `created_at`, `updated_at` (ISO strings).
 
 ---
 
