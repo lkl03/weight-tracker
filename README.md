@@ -25,7 +25,7 @@ The data is a single daily number, so a document store is plenty. **Firestore** 
 - All access goes through the Next.js server with the Admin SDK; client access is denied by `firestore.rules`
 - No infrastructure to manage
 
-> Originally ran on Supabase. Migrated to Firestore on 2026-10-01 with `scripts/migrate-supabase-to-firestore.ts` (document ids = original Supabase UUIDs, field names unchanged).
+> Originally ran on Supabase. Migrated to Firestore on 2026-10-01 (document ids = original Supabase UUIDs, field names unchanged); the one-off migration script is in commit 11e6dee. The old Supabase project was paused after a verified backup.
 
 ---
 
