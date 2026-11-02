@@ -1,9 +1,9 @@
 export const COOKIE_NAME = "wt_auth";
 export const COOKIE_MAX_AGE = 60 * 60 * 24 * 30; // 30 days
 
-// Routes that bring their own auth (Telegram secret header / Vercel cron
-// bearer) or that must be reachable while logged out.
-const PUBLIC_PATHS = ["/login", "/api/auth", "/api/telegram", "/api/cron"];
+// Routes that bring their own auth (Telegram secret header / bearer secret) or
+// that must be reachable while logged out.
+const PUBLIC_PATHS = ["/login", "/api/auth", "/api/telegram", "/api/cron", "/api/recent-weights"];
 
 export function isPublicPath(pathname: string): boolean {
   return PUBLIC_PATHS.some((p) => pathname === p || pathname.startsWith(`${p}/`));
